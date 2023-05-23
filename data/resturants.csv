@@ -1,0 +1,1001 @@
+id,name,neighborhood,category,price_tier,open,close,average_rating,good_for_kids
+1,"DuBuque, Wintheiser and Aufderhar",Bushwick,Italian,Expensive,9:00,21:46,3.4,1
+2,Parker LLC,Long Island City,Mexican,Expensive,8:17,22:45,4.8,0
+3,DuBuque and Sons,Park Slope,Mexican,Expensive,9:59,22:22,4.9,1
+4,Kessler-Reinger,Williamsburg,Mediterranean,Expensive,9:28,22:26,1.3,1
+5,Huels Inc,Pelham Bay,Mediterranean,Medium,8:16,22:13,4.1,0
+6,"Feeney, Will and McDermott",Bushwick,American,Cheap,8:37,21:33,1.3,0
+7,Dickinson and Sons,Great Kills,Italian,Cheap,7:48,22:02,4.4,0
+8,Stark LLC,Upper West Side,Italian,Medium,8:06,21:30,4.1,1
+9,Hammes and Sons,Bushwick,American,Cheap,7:21,22:28,3.5,1
+10,Smitham Inc,Midtown,Mexican,Expensive,9:29,21:16,1.1,1
+11,Howell and Sons,Jackson Heights,Mediterranean,Medium,8:42,21:22,2.4,0
+12,"Volkman, Bahringer and Ebert",New Dorp,Mexican,Medium,7:09,22:25,1.6,1
+13,"Green, Block and Kemmer",Crown Heights,American,Medium,8:19,22:10,4.0,1
+14,Ziemann Group,Lower East Side,Thai,Expensive,9:32,22:39,2.0,0
+15,"Huels, Walker and Harris",Crown Heights,Mexican,Expensive,9:51,22:48,4.2,1
+16,"Mueller, Wuckert and Streich",Red Hook,Italian,Medium,9:55,22:29,1.7,1
+17,Fisher and Sons,Jackson Heights,Mediterranean,Cheap,9:33,21:03,2.8,1
+18,"Ward, O'Hara and Marquardt",Astoria,Mediterranean,Medium,8:25,21:12,2.2,0
+19,Dach-Schroeder,Great Kills,Italian,Expensive,7:44,22:06,1.5,1
+20,"Harvey, Mante and Boyer",Jackson Heights,Mexican,Medium,7:03,22:44,3.0,1
+21,Champlin-Schowalter,Midtown,Italian,Cheap,8:28,22:37,5.0,0
+22,Bradtke Group,Jackson Heights,Italian,Medium,8:08,21:13,4.0,0
+23,Rowe-Medhurst,Great Kills,Italian,Cheap,8:38,21:39,3.8,0
+24,"Turner, Bauch and Miller",Jackson Heights,Mexican,Cheap,8:47,22:57,3.5,0
+25,Nitzsche LLC,Pelham Bay,Mexican,Medium,8:11,21:23,3.0,1
+26,"Wisozk, Haag and Thompson",Fordham,Mexican,Cheap,7:59,21:35,1.1,0
+27,Feest-Okuneva,Jackson Heights,Mexican,Expensive,9:18,22:32,3.3,1
+28,Cassin Inc,Hunts Point,Thai,Medium,7:51,21:28,3.2,1
+29,McGlynn LLC,Crown Heights,American,Expensive,9:13,21:20,3.8,0
+30,Labadie LLC,Fordham,Italian,Expensive,8:05,21:37,4.9,0
+31,"Bartell, Beer and Paucek",Chelsea,Thai,Cheap,8:14,22:51,4.4,0
+32,"Tromp, Nader and Kulas",Brooklyn Heights,Mediterranean,Medium,8:17,21:23,1.6,0
+33,Yost-Gusikowski,Astoria,American,Medium,9:57,22:37,2.4,1
+34,Smitham LLC,Forest Hills,Thai,Medium,9:01,22:07,1.9,0
+35,"Baumbach, Nader and Rippin",Ridgewood,American,Medium,9:48,22:14,1.2,0
+36,Okuneva-Gibson,Upper West Side,Italian,Medium,8:26,22:33,1.8,1
+37,Effertz-Harris,Upper East Side,Italian,Expensive,8:43,21:18,1.2,0
+38,"Kiehn, Hessel and Gleason",Belmont,Mexican,Medium,8:18,22:31,2.0,1
+39,Kuphal-Bashirian,Fordham,Thai,Cheap,9:00,21:10,4.8,1
+40,Farrell Inc,Upper East Side,Mediterranean,Cheap,8:12,22:50,3.3,0
+41,"Batz, Okuneva and Trantow",Greenpoint,American,Expensive,9:37,21:35,1.8,1
+42,Effertz-Bayer,Red Hook,Italian,Expensive,7:35,22:38,1.6,0
+43,"Hayes, Bosco and Adams",Upper East Side,Mexican,Cheap,8:59,21:29,3.8,1
+44,Johns LLC,Long Island City,Mediterranean,Cheap,9:35,22:31,5.0,1
+45,"Luettgen, Prosacco and Lowe",Ridgewood,Thai,Medium,8:01,22:26,1.8,0
+46,Casper LLC,New Dorp,Italian,Expensive,7:06,21:39,1.3,0
+47,"Cremin, Sawayn and Lind",Greenwich Village,Mexican,Cheap,7:29,21:46,3.6,0
+48,"Bode, Gislason and Champlin",Upper West Side,Mexican,Expensive,8:01,22:24,4.4,0
+49,"Hansen, Rodriguez and Sanford",Crown Heights,American,Medium,7:23,21:24,3.3,0
+50,Hoppe-Baumbach,Rosebank,American,Medium,9:24,22:54,2.4,1
+51,Koss-Cummerata,Upper East Side,American,Medium,8:04,22:05,1.1,0
+52,Mohr-Howe,Ridgewood,Mexican,Cheap,7:22,22:34,2.8,1
+53,Rath LLC,Great Kills,Mediterranean,Medium,9:57,22:52,1.5,0
+54,Boyle Inc,Rosebank,Thai,Medium,8:30,21:15,4.3,0
+55,"McGlynn, Schimmel and Herman",Williamsburg,Mexican,Cheap,9:46,22:39,4.7,0
+56,Torp LLC,Great Kills,Mediterranean,Expensive,7:36,21:40,3.3,0
+57,Williamson and Sons,Sunnyside,Mexican,Medium,7:36,22:25,1.3,0
+58,Shields Inc,Belmont,Italian,Cheap,8:43,21:05,2.5,0
+59,"Veum, Flatley and Weimann",Sunnyside,Italian,Expensive,7:29,21:40,1.4,0
+60,Lowe-Beahan,Long Island City,Mexican,Expensive,9:52,21:22,4.2,1
+61,Rutherford LLC,Williamsburg,Mediterranean,Cheap,9:42,21:44,4.2,1
+62,"Ernser, Nikolaus and Pouros",Bushwick,Mediterranean,Medium,9:13,22:06,3.0,1
+63,"Braun, O'Hara and Nikolaus",Brooklyn Heights,Italian,Medium,8:46,22:02,4.8,0
+64,Rosenbaum-Murray,Pelham Bay,American,Cheap,9:02,22:06,3.7,0
+65,Prosacco and Sons,Long Island City,Mediterranean,Medium,8:27,21:34,3.6,1
+66,Kihn LLC,Harlem,Mexican,Medium,8:50,21:28,2.7,0
+67,Schulist LLC,Greenwich Village,Italian,Medium,8:46,21:19,2.2,0
+68,Kirlin Inc,Long Island City,American,Expensive,9:23,21:41,2.0,0
+69,Fahey Inc,Bushwick,Italian,Expensive,8:46,21:49,4.4,1
+70,Bayer-Gorczany,SoHo,Mediterranean,Cheap,7:07,21:14,2.9,1
+71,"Wuckert, Baumbach and Labadie",Rosebank,Thai,Cheap,9:55,21:00,1.4,1
+72,Lueilwitz Inc,Crown Heights,Mexican,Expensive,9:35,21:36,2.8,1
+73,"Carroll, West and Quitzon",Astoria,Mediterranean,Cheap,9:36,22:22,4.0,1
+74,Harber-Jacobson,Brooklyn Heights,Italian,Medium,9:52,22:40,2.2,1
+75,Corwin-Casper,Brooklyn Heights,Mediterranean,Cheap,9:34,21:28,2.1,0
+76,Balistreri Inc,Astoria,Italian,Medium,8:46,21:58,1.4,0
+77,Nader-Jast,Long Island City,Italian,Medium,8:39,21:30,3.1,0
+78,"Rodriguez, Luettgen and Haag",Chelsea,Mediterranean,Cheap,9:13,22:25,1.4,1
+79,Leannon Group,Pelham Bay,American,Expensive,8:07,21:34,1.9,1
+80,"Kuhn, Corwin and Turcotte",Upper East Side,American,Medium,9:19,22:23,2.5,0
+81,Weimann Inc,Forest Hills,Mediterranean,Medium,8:32,21:29,4.6,1
+82,Yundt and Sons,SoHo,Thai,Medium,9:12,22:23,3.4,0
+83,McGlynn-Schroeder,Chelsea,Thai,Cheap,9:49,21:51,4.7,0
+84,Bosco Group,Great Kills,Mexican,Medium,7:48,21:20,4.6,0
+85,"Metz, Wisoky and Kessler",Park Slope,Thai,Cheap,9:24,22:32,1.5,1
+86,Mitchell Group,Williamsburg,Thai,Cheap,8:32,21:20,1.9,0
+87,Nicolas-Bins,Chelsea,Italian,Expensive,8:11,22:56,2.2,0
+88,Rau-Yundt,St. George,American,Medium,8:41,21:13,4.7,1
+89,Hansen Inc,Upper West Side,Mediterranean,Cheap,8:00,21:08,2.6,0
+90,Thiel LLC,Forest Hills,Mexican,Expensive,9:51,21:29,1.4,0
+91,Pacocha and Sons,Chelsea,Mexican,Expensive,7:54,22:46,4.8,1
+92,Nitzsche-Wintheiser,Chelsea,Mediterranean,Cheap,9:36,22:11,2.0,1
+93,Sawayn and Sons,Park Slope,Italian,Cheap,7:43,22:55,2.0,1
+94,Schimmel-Hansen,Sunnyside,Mediterranean,Expensive,9:39,22:03,3.4,0
+95,"Willms, Emard and Schultz",Ridgewood,Italian,Expensive,7:49,22:13,4.2,0
+96,Schuppe-Roberts,Ridgewood,American,Expensive,8:49,21:22,1.8,1
+97,"Reinger, Welch and Murazik",Greenwich Village,American,Cheap,9:42,22:13,3.5,0
+98,Bailey-Wehner,Jackson Heights,Mexican,Cheap,7:21,21:22,3.5,1
+99,"Bins, Smitham and Rutherford",St. George,Mediterranean,Expensive,8:18,22:16,2.3,0
+100,Ziemann Group,New Dorp,Italian,Cheap,8:43,22:26,1.2,0
+101,"Wuckert, Shields and MacGyver",SoHo,Italian,Cheap,7:53,21:42,2.1,1
+102,Langworth LLC,St. George,Thai,Cheap,7:40,21:49,3.1,0
+103,Kilback Group,Park Slope,Mexican,Medium,8:28,21:20,3.0,1
+104,Gislason-Weissnat,Long Island City,American,Expensive,9:52,22:31,1.4,1
+105,Hickle-DuBuque,Fordham,Mediterranean,Cheap,7:32,21:09,4.6,1
+106,Wiza LLC,Fordham,Thai,Medium,7:07,22:42,2.6,1
+107,Christiansen-Heller,Pelham Bay,Thai,Expensive,7:22,21:00,5.0,1
+108,Hoeger Inc,Chelsea,Mediterranean,Expensive,7:23,22:57,2.8,1
+109,"Graham, Hermiston and Hessel",Riverdale,Mediterranean,Cheap,7:12,22:12,3.2,1
+110,Senger LLC,Midtown,Mexican,Medium,7:13,22:07,2.8,1
+111,Hoppe-Stehr,Morris Park,Mexican,Expensive,9:38,21:08,4.1,1
+112,Jast Inc,Pelham Bay,American,Expensive,7:04,22:57,1.1,1
+113,"Jenkins, Pouros and Hegmann",Riverdale,American,Medium,7:06,21:05,2.1,1
+114,Hermiston and Sons,SoHo,Mexican,Medium,8:21,21:28,2.5,0
+115,"Zboncak, Rath and Koch",Long Island City,Thai,Expensive,8:08,22:53,1.8,0
+116,Swaniawski-Reinger,Pelham Bay,Thai,Expensive,8:44,21:19,2.8,0
+117,Braun Inc,St. George,American,Expensive,9:10,22:20,2.2,0
+118,Littel and Sons,Crown Heights,American,Expensive,9:03,21:00,3.1,0
+119,Osinski LLC,Bushwick,American,Cheap,8:16,22:48,1.2,1
+120,Harvey LLC,Chelsea,Italian,Cheap,8:33,21:42,4.8,0
+121,Grimes-Buckridge,Tottenville,Mexican,Expensive,8:13,21:16,4.7,0
+122,"Prohaska, Mayert and White",St. George,Thai,Medium,9:47,22:04,1.4,1
+123,"Reinger, Daniel and Mayer",Greenwich Village,Thai,Medium,8:23,21:02,3.0,0
+124,"Hegmann, Wolf and Brown",New Dorp,Mexican,Expensive,9:35,22:41,1.3,1
+125,Ritchie Inc,Forest Hills,Mediterranean,Medium,9:48,21:55,1.4,0
+126,Bernhard LLC,St. George,Italian,Medium,9:51,22:48,1.4,1
+127,Lang-Bergnaum,Forest Hills,Mediterranean,Cheap,7:11,22:36,3.0,1
+128,Hand-Upton,Red Hook,Italian,Expensive,9:32,22:29,3.4,0
+129,"Bartoletti, Beatty and Rohan",Long Island City,Italian,Expensive,7:50,22:44,1.7,0
+130,Friesen Group,Sunnyside,Mexican,Medium,7:58,22:41,4.5,1
+131,Nolan-King,Tottenville,Mexican,Medium,8:06,21:17,3.8,1
+132,Wisozk Group,Lower East Side,Italian,Cheap,7:38,22:35,1.7,0
+133,Schaefer-Strosin,Pelham Bay,Mexican,Cheap,7:52,21:57,4.3,0
+134,"Nienow, Herzog and Rosenbaum",New Dorp,American,Expensive,9:24,22:00,1.4,1
+135,Will-Hodkiewicz,Riverdale,Thai,Medium,7:14,21:18,4.1,0
+136,"Prohaska, Fritsch and Zulauf",Harlem,Italian,Expensive,8:20,22:15,4.3,0
+137,"Keeling, Bechtelar and Rogahn",Bushwick,Mediterranean,Medium,8:20,21:06,3.2,0
+138,"Littel, Kutch and Lowe",Ridgewood,Mediterranean,Expensive,8:24,21:27,5.0,0
+139,Jacobs and Sons,Park Slope,American,Medium,7:49,22:24,3.2,1
+140,Franecki-Nienow,Crown Heights,Mediterranean,Expensive,8:06,21:03,2.2,1
+141,Ledner and Sons,Sunnyside,Mexican,Cheap,7:19,22:27,2.3,0
+142,Pouros Inc,Upper East Side,Italian,Expensive,8:56,21:16,3.5,0
+143,Jenkins LLC,Riverdale,American,Medium,8:44,21:07,3.4,0
+144,Stanton-Herman,Forest Hills,Thai,Cheap,7:05,22:58,4.1,0
+145,Von LLC,Tottenville,American,Cheap,8:08,22:24,3.5,0
+146,"Kuhlman, Quitzon and Dooley",Chelsea,Italian,Cheap,9:08,21:48,1.8,1
+147,Moore Inc,Fordham,Mediterranean,Expensive,7:48,22:41,5.0,1
+148,Baumbach Inc,New Dorp,Mexican,Cheap,7:11,22:16,1.4,1
+149,"Collier, Sipes and Turner",Flushing,American,Medium,7:41,22:59,4.2,1
+150,Kuhn Group,Rosebank,Mediterranean,Cheap,8:36,21:42,4.8,1
+151,Bartoletti Inc,Morris Park,Mexican,Medium,7:35,21:08,2.0,1
+152,Schultz-Sanford,Greenpoint,Mexican,Cheap,7:58,22:50,4.9,0
+153,"Kling, Morar and Ebert",Astoria,Italian,Medium,7:33,22:56,1.9,0
+154,Kuhlman LLC,Jackson Heights,Mexican,Expensive,9:09,22:41,1.0,0
+155,Lebsack-Anderson,Red Hook,Mexican,Cheap,7:17,22:38,1.5,1
+156,Cruickshank-Haag,Upper East Side,Italian,Medium,7:41,21:07,3.3,1
+157,Nader and Sons,New Dorp,American,Expensive,8:52,21:15,2.3,0
+158,Parisian and Sons,Red Hook,American,Medium,8:53,22:52,4.1,0
+159,Abernathy LLC,Fordham,Mexican,Cheap,9:15,22:15,4.9,0
+160,Moen and Sons,Pelham Bay,Thai,Medium,9:29,21:59,1.4,0
+161,Jacobi Inc,Tottenville,American,Cheap,8:56,21:02,2.2,0
+162,Lubowitz-Murray,Hunts Point,Thai,Expensive,7:41,21:24,2.6,0
+163,Mohr-Braun,Riverdale,Mediterranean,Cheap,8:09,21:26,4.8,1
+164,"Koss, Kub and Lubowitz",Pelham Bay,Mediterranean,Cheap,7:01,22:57,4.1,1
+165,Little-Donnelly,Flushing,Thai,Expensive,7:11,22:49,4.9,0
+166,"Barton, Pouros and Douglas",Brooklyn Heights,Mediterranean,Cheap,7:32,22:26,5.0,0
+167,Ebert-McDermott,SoHo,Italian,Expensive,9:40,21:23,3.7,1
+168,Olson-Pfannerstill,Morris Park,Italian,Cheap,7:40,22:49,2.4,0
+169,"Marquardt, Maggio and Mante",Bushwick,Italian,Expensive,7:17,21:35,3.1,1
+170,"Shanahan, Kuhlman and Wisozk",Great Kills,Italian,Expensive,7:57,21:36,4.4,0
+171,"Larson, Wilderman and Kozey",Rosebank,Mexican,Expensive,7:16,21:53,3.9,0
+172,Runolfsdottir-Sawayn,Red Hook,Mediterranean,Medium,9:25,21:52,1.8,1
+173,Steuber-Beahan,Greenpoint,American,Expensive,9:46,22:38,2.8,0
+174,Yost-Walter,Hunts Point,Thai,Medium,8:14,22:31,4.5,1
+175,"Okuneva, Williamson and Bruen",Bushwick,Mediterranean,Medium,7:33,22:14,1.5,0
+176,Murphy and Sons,Riverdale,American,Cheap,8:28,22:26,2.3,0
+177,"Ziemann, Heidenreich and Quigley",Sunnyside,Mediterranean,Cheap,8:05,22:18,2.1,0
+178,"Hammes, Hintz and Schmitt",Rosebank,Mexican,Expensive,7:03,21:15,1.7,1
+179,Dach-Feeney,Chelsea,Mediterranean,Expensive,8:08,22:19,3.9,0
+180,Ward-Kris,Hunts Point,Thai,Expensive,7:32,22:58,3.8,0
+181,Murray LLC,Riverdale,Thai,Expensive,9:08,22:56,4.9,0
+182,Carroll-Schultz,Lower East Side,Mediterranean,Expensive,8:57,22:32,2.4,1
+183,"Zieme, Trantow and Hermann",Bushwick,American,Medium,8:04,22:44,2.0,1
+184,"Mayer, Terry and Doyle",Rosebank,Mediterranean,Expensive,8:43,22:14,1.6,0
+185,Stokes-Shanahan,Midtown,Mexican,Cheap,7:22,22:50,2.9,1
+186,Schaefer-Kunde,Sunnyside,Mexican,Cheap,7:22,21:36,2.9,1
+187,"Gleichner, Considine and Schowalter",Upper East Side,Mexican,Expensive,9:28,22:01,1.6,1
+188,Johnson-Klocko,Bushwick,Italian,Cheap,7:37,22:00,3.3,1
+189,McCullough-Kutch,Long Island City,Mediterranean,Cheap,7:00,22:21,1.8,0
+190,Stiedemann-Quigley,Hunts Point,Thai,Medium,9:38,22:52,2.3,0
+191,"Franecki, Dooley and Bayer",New Dorp,Thai,Cheap,8:54,21:21,4.8,0
+192,Brown Inc,Ridgewood,Mediterranean,Cheap,8:00,21:14,2.8,0
+193,Littel Inc,Astoria,Thai,Expensive,9:42,21:16,2.3,0
+194,Gislason Inc,Jackson Heights,American,Expensive,7:52,21:11,4.2,0
+195,Ruecker-Harber,Astoria,Mexican,Medium,8:19,22:03,3.7,0
+196,Osinski LLC,Lower East Side,American,Expensive,8:49,21:32,2.3,0
+197,Block Group,Forest Hills,Mediterranean,Expensive,9:47,21:20,3.4,1
+198,Gutkowski-Bednar,Fordham,Thai,Expensive,7:16,22:18,2.6,1
+199,Blick LLC,Upper East Side,Mediterranean,Expensive,8:14,22:51,2.7,1
+200,Ryan-Pouros,Greenpoint,Thai,Medium,9:00,22:17,3.6,0
+201,"Mertz, Gislason and Schulist",Flushing,Thai,Expensive,8:30,22:57,4.7,0
+202,"Wilkinson, Wiza and Gerhold",Bushwick,American,Medium,7:41,21:40,1.8,0
+203,Steuber-Waters,Red Hook,Mexican,Medium,7:30,21:46,4.4,0
+204,"Gerlach, Yundt and O'Connell",Upper East Side,Mexican,Medium,9:47,22:49,1.5,0
+205,Swaniawski LLC,Bushwick,Mediterranean,Cheap,7:48,21:01,2.1,1
+206,"Nitzsche, Marquardt and Muller",St. George,Mediterranean,Cheap,9:18,21:01,3.1,0
+207,Conroy LLC,Tottenville,American,Cheap,8:18,22:18,3.6,0
+208,Weber LLC,Forest Hills,Thai,Cheap,9:15,22:10,1.4,0
+209,Abbott Inc,Chelsea,Mediterranean,Expensive,8:09,22:14,2.6,0
+210,Kassulke and Sons,Fordham,Mediterranean,Cheap,7:37,22:54,3.6,1
+211,Carroll Group,Hunts Point,Thai,Cheap,8:39,22:28,1.3,1
+212,Bins LLC,St. George,Mediterranean,Cheap,8:18,22:02,4.4,0
+213,Hyatt LLC,St. George,American,Expensive,8:55,21:40,1.3,1
+214,"Hermiston, Parker and Denesik",Lower East Side,Mediterranean,Medium,8:06,22:56,1.2,0
+215,Kirlin-Gutkowski,Annadale,Mediterranean,Medium,9:55,22:16,3.7,1
+216,Cormier-Lang,Forest Hills,Italian,Medium,9:10,22:06,2.1,1
+217,VonRueden-Bailey,Morris Park,Mediterranean,Cheap,8:07,21:43,2.8,1
+218,"Kuhic, McGlynn and Reynolds",Red Hook,Thai,Medium,8:20,21:48,3.6,1
+219,Hyatt-Parisian,Park Slope,Mediterranean,Cheap,9:22,21:38,4.2,1
+220,"Frami, Hayes and Weissnat",Morris Park,Thai,Cheap,9:07,21:12,1.9,0
+221,Deckow LLC,Williamsburg,Mediterranean,Cheap,7:03,22:26,3.3,1
+222,"Cummings, Volkman and Zboncak",Midtown,Mexican,Cheap,8:56,21:37,3.2,0
+223,"Koss, O'Reilly and Rohan",Annadale,Mediterranean,Expensive,7:36,22:59,1.0,0
+224,Hirthe-Abshire,Long Island City,Mediterranean,Medium,7:39,21:21,1.2,0
+225,Ziemann-Abshire,Upper West Side,Thai,Cheap,9:49,21:17,3.1,1
+226,Tremblay-Brakus,Lower East Side,American,Cheap,9:23,21:55,5.0,1
+227,"Predovic, Osinski and Lesch",Brooklyn Heights,Mexican,Expensive,8:16,22:47,4.3,1
+228,O'Connell-Schroeder,Chelsea,Italian,Expensive,8:24,22:36,3.2,0
+229,Gislason-Maggio,Bushwick,Italian,Medium,8:25,21:27,1.8,1
+230,Kuvalis Inc,Pelham Bay,Italian,Medium,7:14,22:02,2.6,0
+231,"Barton, Sporer and Kirlin",Williamsburg,Mexican,Cheap,9:22,22:25,4.4,1
+232,Lang LLC,Red Hook,Mediterranean,Expensive,8:25,22:51,4.2,0
+233,"Howell, Ankunding and Hahn",Chelsea,Mediterranean,Cheap,9:05,21:53,4.5,0
+234,Waters Group,Long Island City,Mediterranean,Expensive,9:34,22:49,3.8,0
+235,"Rutherford, Davis and Howell",Greenwich Village,Mediterranean,Cheap,9:58,22:07,3.8,0
+236,Weissnat-Paucek,Williamsburg,Mediterranean,Expensive,7:30,22:24,2.6,1
+237,Jones Group,Belmont,Italian,Medium,7:05,21:33,2.3,1
+238,Murray-Jones,Chelsea,Italian,Expensive,8:57,21:34,1.0,1
+239,"Leffler, Schimmel and Bernier",SoHo,Mexican,Expensive,9:51,21:58,1.9,0
+240,Blanda Inc,Sunnyside,Mediterranean,Cheap,8:28,22:44,2.8,1
+241,Haag-Wolff,Astoria,Italian,Expensive,7:33,22:11,4.2,0
+242,Oberbrunner-Jacobs,Upper West Side,Italian,Medium,9:59,22:09,3.1,0
+243,Schneider-Effertz,Lower East Side,Thai,Medium,8:46,22:45,2.1,1
+244,Jacobson-Green,Sunnyside,Italian,Medium,8:25,21:52,2.8,1
+245,"Frami, Green and Langworth",Chelsea,Italian,Cheap,9:19,22:16,4.0,1
+246,Kshlerin Group,Lower East Side,Mediterranean,Expensive,7:22,22:28,2.7,1
+247,Kunze-Schmeler,Belmont,Mediterranean,Expensive,9:45,22:28,3.8,0
+248,Schinner-Gerlach,Red Hook,Thai,Expensive,7:33,22:32,2.7,0
+249,Kuvalis Group,Red Hook,Italian,Expensive,9:05,21:48,2.1,0
+250,"Labadie, Wisozk and Welch",Hunts Point,American,Cheap,7:25,22:53,3.7,1
+251,"Heller, Lang and Hudson",Tottenville,Mediterranean,Cheap,7:43,22:53,2.0,0
+252,"Doyle, Padberg and Kshlerin",Fordham,Italian,Expensive,9:44,22:40,2.4,1
+253,"Stracke, Altenwerth and Carter",Sunnyside,Mediterranean,Cheap,8:54,22:46,1.5,1
+254,Kirlin and Sons,St. George,Italian,Cheap,7:50,21:01,2.8,0
+255,Maggio-Osinski,Riverdale,Italian,Cheap,7:12,21:54,1.2,0
+256,Jacobi-Dicki,Rosebank,Thai,Cheap,8:59,21:43,1.8,1
+257,Koelpin-Romaguera,Ridgewood,American,Medium,8:03,21:53,2.4,0
+258,Donnelly-Conn,Midtown,American,Cheap,8:36,21:35,1.5,1
+259,Schiller LLC,Chelsea,American,Cheap,9:39,22:47,4.7,0
+260,Lowe and Sons,Brooklyn Heights,American,Cheap,8:15,22:23,4.2,1
+261,Morissette-Farrell,New Dorp,Thai,Expensive,7:01,22:19,3.7,0
+262,"Schuppe, Koss and Bayer",Riverdale,Mexican,Medium,9:33,21:28,4.8,1
+263,Balistreri and Sons,Midtown,American,Expensive,8:31,21:06,3.8,0
+264,Dietrich-Marquardt,Fordham,Mexican,Expensive,9:46,22:35,3.1,1
+265,Zemlak-Ebert,Brooklyn Heights,Thai,Cheap,8:44,21:24,4.5,0
+266,Gerlach-Kemmer,Tottenville,Italian,Medium,7:51,22:21,3.4,0
+267,Heller-Bayer,Forest Hills,American,Cheap,7:39,21:08,2.0,0
+268,Greenholt and Sons,Tottenville,American,Expensive,9:23,22:04,2.3,0
+269,Schaden LLC,Ridgewood,Thai,Cheap,9:27,21:28,2.9,1
+270,"Murazik, Monahan and Beer",Red Hook,Thai,Medium,8:19,22:49,3.1,1
+271,Considine-Swift,Lower East Side,Mediterranean,Expensive,7:48,21:07,2.0,0
+272,Bradtke Group,Greenpoint,Thai,Cheap,8:54,21:11,3.4,1
+273,"Macejkovic, Collier and Stroman",New Dorp,American,Medium,8:15,21:26,1.8,1
+274,Schmitt-Stamm,Hunts Point,American,Cheap,7:42,21:46,3.7,1
+275,Hessel-Schamberger,Tottenville,Italian,Cheap,8:02,21:11,1.1,1
+276,Hagenes LLC,Upper West Side,American,Expensive,7:23,21:58,3.9,0
+277,"Fadel, Pfeffer and Carter",Greenwich Village,Thai,Expensive,7:54,21:17,1.6,0
+278,Zemlak Group,Astoria,Thai,Medium,7:49,21:42,3.9,0
+279,Howe and Sons,New Dorp,Thai,Cheap,9:29,21:52,1.1,1
+280,Beier-Torphy,Sunnyside,American,Cheap,7:18,22:14,3.2,1
+281,Lynch LLC,Upper West Side,Mexican,Expensive,7:42,21:45,2.8,0
+282,"Fisher, Terry and Mertz",Ridgewood,Thai,Cheap,7:05,22:24,2.3,0
+283,"Purdy, Dickens and Borer",Upper East Side,Mediterranean,Expensive,7:06,22:42,1.5,1
+284,"Deckow, Jakubowski and Watsica",Lower East Side,Mediterranean,Expensive,8:53,22:11,1.1,0
+285,Wintheiser-Oberbrunner,Upper West Side,American,Expensive,7:22,22:02,2.6,1
+286,DuBuque LLC,Pelham Bay,Italian,Cheap,9:35,22:28,2.8,0
+287,Ernser-Kutch,SoHo,Mediterranean,Medium,8:55,21:53,1.6,1
+288,Spinka and Sons,Lower East Side,Thai,Expensive,7:08,22:19,5.0,1
+289,"Quitzon, Bernier and O'Keefe",New Dorp,American,Medium,8:14,22:11,3.9,0
+290,"Nikolaus, Nienow and Wilderman",Upper East Side,Thai,Medium,8:25,22:39,2.7,1
+291,"Bogisich, O'Connell and Beer",Tottenville,Italian,Medium,7:34,21:59,4.2,0
+292,Emard-Russel,Upper West Side,Mediterranean,Expensive,9:00,22:02,1.9,1
+293,Hegmann-Borer,Annadale,Thai,Expensive,8:44,22:34,2.2,1
+294,Schaden Group,Rosebank,Mediterranean,Expensive,8:18,21:32,3.1,1
+295,"Aufderhar, Ziemann and Bruen",Pelham Bay,Thai,Expensive,7:15,22:30,1.3,1
+296,"Pfannerstill, Grimes and Hills",Greenwich Village,Mexican,Cheap,8:16,22:05,1.4,1
+297,"Lowe, Weber and Maggio",Forest Hills,American,Cheap,8:14,21:00,2.4,0
+298,Swaniawski-Heaney,Upper East Side,Thai,Cheap,9:07,21:04,3.5,0
+299,Windler LLC,Flushing,American,Medium,8:10,21:29,2.3,0
+300,"Jast, Rohan and Rice",Greenwich Village,Italian,Expensive,7:59,22:45,2.6,0
+301,Lubowitz Group,Sunnyside,Mexican,Expensive,8:29,22:48,3.3,0
+302,Schiller LLC,Forest Hills,Italian,Expensive,9:22,22:56,2.7,0
+303,"Kreiger, Pouros and Witting",Williamsburg,Italian,Medium,8:15,21:47,3.2,0
+304,"Orn, Brekke and Harris",Pelham Bay,Italian,Cheap,8:36,21:52,4.0,1
+305,Kozey Group,Upper East Side,Italian,Expensive,8:15,22:57,1.4,1
+306,Ondricka-Schimmel,Long Island City,Thai,Expensive,9:29,21:30,3.1,0
+307,"Kuhn, Swift and Kutch",Great Kills,Mexican,Medium,8:05,21:07,2.5,1
+308,Russel-Dickens,Park Slope,Italian,Expensive,7:03,22:19,4.2,1
+309,Spinka and Sons,Flushing,Mediterranean,Expensive,7:32,22:06,3.9,0
+310,"Schultz, Krajcik and Hamill",Tottenville,Italian,Expensive,7:25,22:45,4.0,0
+311,"Daugherty, Kemmer and Bins",Red Hook,Mexican,Medium,9:51,21:38,3.3,1
+312,Medhurst Group,Long Island City,American,Expensive,9:52,21:02,1.4,1
+313,Cartwright-Murazik,Fordham,Italian,Cheap,7:05,22:50,4.8,1
+314,Lowe-Mayer,SoHo,Mediterranean,Cheap,9:37,21:55,2.2,1
+315,Hickle-Stamm,Park Slope,Italian,Medium,9:34,22:35,3.4,0
+316,Terry Inc,Astoria,Mexican,Expensive,7:32,21:32,3.7,1
+317,Johnson-Kuhlman,New Dorp,American,Cheap,9:23,22:44,2.1,1
+318,Russel-Marvin,Sunnyside,Mexican,Medium,9:53,21:33,4.8,1
+319,"McClure, Nader and Dickinson",Rosebank,Italian,Expensive,8:52,21:30,4.2,0
+320,Kirlin-Botsford,Sunnyside,Italian,Cheap,9:23,21:46,1.3,0
+321,Renner-Howe,Bushwick,Italian,Medium,9:20,22:59,4.1,0
+322,"Howe, Flatley and Heaney",Great Kills,Mexican,Expensive,8:19,21:19,2.7,1
+323,Kiehn Group,Tottenville,Mediterranean,Expensive,7:49,21:51,4.4,1
+324,Bosco-Ruecker,Bushwick,Italian,Cheap,8:02,22:34,4.3,0
+325,Prosacco and Sons,Belmont,American,Medium,9:27,22:50,4.4,0
+326,Prosacco-Bartell,Long Island City,American,Medium,8:28,21:37,3.7,1
+327,Mosciski and Sons,Greenwich Village,Mexican,Medium,7:36,21:23,3.9,1
+328,"Walsh, Pollich and Stanton",Sunnyside,Italian,Cheap,9:28,21:39,2.2,0
+329,Thompson-Schimmel,Rosebank,American,Cheap,9:42,22:26,3.3,1
+330,Marks-Bayer,Lower East Side,American,Expensive,9:40,22:47,1.1,0
+331,Lang Inc,Rosebank,Mediterranean,Medium,8:01,22:14,3.4,0
+332,Adams-Gaylord,Crown Heights,American,Cheap,7:03,21:48,4.7,0
+333,Green and Sons,Tottenville,American,Expensive,8:43,21:54,1.0,0
+334,Keebler-Zemlak,Greenwich Village,Mediterranean,Cheap,9:38,22:59,4.8,0
+335,Abshire-Greenholt,Upper East Side,Mediterranean,Medium,7:28,21:15,4.8,0
+336,Brown LLC,Fordham,Italian,Medium,7:58,22:54,3.4,1
+337,Reinger-Gibson,Greenpoint,American,Medium,7:52,21:36,1.4,1
+338,Mann Group,Greenwich Village,Thai,Expensive,8:31,21:17,4.6,0
+339,"Langworth, Feest and Treutel",Midtown,Italian,Medium,7:16,22:52,3.7,0
+340,Sawayn and Sons,Greenwich Village,Thai,Medium,9:32,21:41,1.6,1
+341,Fritsch and Sons,Tottenville,American,Medium,8:03,22:52,3.6,1
+342,"Kilback, Moore and Flatley",Great Kills,American,Medium,9:04,21:51,2.6,1
+343,Hammes-Zboncak,Rosebank,American,Cheap,7:34,22:25,1.9,1
+344,D'Amore Group,Greenwich Village,Italian,Cheap,9:14,21:17,2.1,1
+345,Considine Inc,New Dorp,Mexican,Expensive,7:26,22:55,2.1,1
+346,Breitenberg LLC,Flushing,Mediterranean,Medium,9:48,21:41,1.2,0
+347,"Kovacek, Rath and Schiller",Brooklyn Heights,Thai,Expensive,8:42,22:13,1.9,1
+348,Ortiz-Nitzsche,Rosebank,Italian,Cheap,7:11,22:39,4.3,1
+349,Ward and Sons,SoHo,Mexican,Cheap,8:25,21:22,1.0,0
+350,Gibson-Rice,Astoria,Mediterranean,Expensive,9:30,21:29,3.6,1
+351,"Emmerich, Kuphal and Gaylord",Park Slope,Mexican,Cheap,8:25,21:47,4.5,1
+352,Jacobs-Considine,Lower East Side,American,Medium,8:53,22:27,4.1,0
+353,"Murazik, Konopelski and Fritsch",Chelsea,Mediterranean,Medium,8:35,22:01,4.8,1
+354,McDermott and Sons,Flushing,American,Cheap,7:28,21:19,3.6,1
+355,"Tromp, Pagac and Heller",St. George,Italian,Medium,9:32,22:32,4.0,0
+356,Kub-Purdy,Chelsea,Mexican,Cheap,7:55,21:32,1.0,0
+357,O'Hara-Kessler,Fordham,Italian,Cheap,7:41,21:59,2.7,0
+358,"Schneider, Hansen and Steuber",Midtown,American,Medium,8:29,22:19,3.4,1
+359,Rolfson LLC,SoHo,American,Medium,9:51,21:58,2.1,1
+360,Lesch-Gerlach,Red Hook,Italian,Medium,9:24,22:07,3.3,0
+361,"Howe, Reinger and Daugherty",Greenpoint,Mediterranean,Cheap,9:53,21:07,3.0,0
+362,Hahn-Rolfson,Greenpoint,Thai,Expensive,7:16,21:01,1.7,0
+363,"Herzog, Torp and Hessel",Jackson Heights,American,Medium,8:02,21:49,3.5,1
+364,Zboncak Group,Chelsea,Mediterranean,Medium,9:08,22:11,3.1,1
+365,Schaden LLC,St. George,American,Expensive,7:50,22:15,1.0,0
+366,"Torphy, Deckow and Spinka",Forest Hills,Mexican,Cheap,7:47,21:16,4.0,1
+367,Emard Group,Tottenville,Mexican,Cheap,9:09,21:13,1.2,1
+368,"Emmerich, Orn and Boyle",Chelsea,American,Cheap,7:43,22:08,3.9,1
+369,Steuber-Cartwright,Hunts Point,Mexican,Expensive,9:04,22:59,3.7,1
+370,Cormier-Kulas,Annadale,Mexican,Cheap,7:02,22:04,1.5,0
+371,Runolfsson LLC,Great Kills,Mexican,Cheap,9:54,21:21,3.1,1
+372,"Barton, Yost and Paucek",Chelsea,Mexican,Cheap,7:34,22:57,1.4,1
+373,Kertzmann-Klocko,Harlem,Italian,Cheap,8:47,22:33,1.6,0
+374,Blick LLC,SoHo,Thai,Medium,8:32,21:17,3.9,0
+375,"Rowe, Keeling and Leannon",Astoria,American,Cheap,7:39,21:03,1.4,1
+376,"Kiehn, Auer and Rippin",Bushwick,Thai,Expensive,9:51,21:51,1.3,1
+377,"Conn, Gerhold and Kutch",St. George,Mexican,Expensive,8:46,22:13,4.4,1
+378,Bartell-Greenfelder,Midtown,Thai,Medium,9:39,22:30,4.9,1
+379,"Fisher, Moen and Walsh",Crown Heights,Mexican,Medium,9:43,22:43,4.3,0
+380,Cummings and Sons,Greenpoint,Mexican,Cheap,8:03,21:57,2.7,1
+381,Lueilwitz-Bogan,Annadale,Mediterranean,Cheap,7:23,22:31,3.0,1
+382,Greenholt-Blanda,Harlem,Mediterranean,Medium,9:24,22:53,1.2,1
+383,Bosco and Sons,Long Island City,Italian,Expensive,9:39,21:57,2.1,0
+384,"Kuhlman, Smitham and Murray",Forest Hills,American,Medium,7:03,21:32,2.7,1
+385,Jacobi-Bechtelar,Long Island City,Mediterranean,Medium,8:18,22:11,1.1,1
+386,"Kling, Labadie and Dach",Forest Hills,American,Expensive,9:00,21:56,2.8,0
+387,"Swift, Walter and Crooks",Lower East Side,Mexican,Cheap,8:18,21:20,2.5,1
+388,Rippin and Sons,Chelsea,American,Expensive,7:27,21:48,4.4,0
+389,"Dickens, Harris and Zboncak",Forest Hills,Thai,Medium,7:21,22:41,1.5,1
+390,MacGyver-Heidenreich,SoHo,Mexican,Cheap,8:13,22:16,5.0,1
+391,Pagac-Dicki,Bushwick,American,Medium,9:31,21:09,4.1,0
+392,"Schaden, Halvorson and Feil",Brooklyn Heights,American,Medium,9:32,22:46,4.7,0
+393,Kerluke-Boyer,Astoria,American,Cheap,9:39,21:53,1.4,0
+394,Legros-Koss,Harlem,American,Expensive,8:23,22:50,1.6,0
+395,"Bauch, Shanahan and Aufderhar",Morris Park,Thai,Expensive,8:08,22:23,1.3,1
+396,Paucek Inc,Annadale,Thai,Cheap,7:37,21:46,1.9,0
+397,"Padberg, Collier and Hane",Bushwick,Mexican,Medium,7:13,21:17,1.7,0
+398,Boyle-Hand,Long Island City,Mexican,Medium,9:31,21:45,4.1,1
+399,Renner-Barton,Harlem,Mexican,Medium,8:23,21:56,1.9,0
+400,"Gottlieb, Leuschke and Parker",Red Hook,American,Expensive,7:36,22:11,1.6,1
+401,Funk Inc,Hunts Point,Italian,Cheap,7:11,22:41,2.6,1
+402,Wisozk-Rosenbaum,Harlem,Thai,Cheap,7:31,22:55,2.3,0
+403,"Jerde, Denesik and Vandervort",Fordham,Italian,Expensive,8:04,22:38,1.9,1
+404,"Tillman, Hintz and Osinski",New Dorp,American,Expensive,8:42,21:33,4.5,0
+405,Funk Group,Williamsburg,American,Expensive,8:55,21:12,3.4,0
+406,"Hintz, Nicolas and Rau",Lower East Side,Thai,Medium,9:46,21:03,4.3,1
+407,Kohler-Koelpin,Great Kills,Mexican,Medium,7:23,21:56,4.4,1
+408,Ebert LLC,Red Hook,Mexican,Expensive,7:18,22:13,2.3,1
+409,Friesen-Prohaska,SoHo,Mexican,Expensive,9:01,21:41,3.8,1
+410,"Crist, Schamberger and Bogisich",Tottenville,Thai,Cheap,7:39,21:16,2.5,0
+411,"Glover, Morar and Orn",Hunts Point,American,Cheap,9:48,21:11,3.8,1
+412,Bins-Morar,Astoria,Thai,Expensive,8:22,21:59,2.8,1
+413,O'Kon and Sons,Morris Park,Thai,Medium,8:52,22:51,4.0,1
+414,"Veum, Kerluke and Rau",Rosebank,Mediterranean,Cheap,7:32,22:04,4.9,0
+415,"Sanford, Kuvalis and Romaguera",Harlem,Thai,Cheap,7:30,21:37,1.6,1
+416,Becker and Sons,Forest Hills,Thai,Medium,9:55,22:50,2.0,1
+417,Pacocha-Romaguera,Forest Hills,Mexican,Expensive,8:50,21:17,2.9,1
+418,Hammes-MacGyver,Long Island City,Mediterranean,Cheap,7:59,22:32,4.0,0
+419,"Boyer, Douglas and Lebsack",Harlem,American,Expensive,7:42,22:21,3.5,1
+420,Larson LLC,Lower East Side,Italian,Medium,7:49,21:43,4.7,0
+421,Ledner LLC,Sunnyside,Thai,Cheap,8:52,22:57,4.9,0
+422,"Osinski, Anderson and Barrows",Lower East Side,American,Cheap,8:15,21:34,4.2,1
+423,"Cronin, Mante and Ondricka",Fordham,Mexican,Medium,7:55,21:30,2.9,0
+424,"Quigley, Windler and Tromp",Long Island City,Mexican,Cheap,9:51,22:25,2.9,1
+425,Haley and Sons,Riverdale,American,Cheap,8:08,22:43,4.4,0
+426,D'Amore-Steuber,Great Kills,Mexican,Expensive,7:28,22:43,1.6,1
+427,Franecki-Koss,Williamsburg,American,Cheap,8:52,22:24,3.2,1
+428,Collins Group,Flushing,Italian,Medium,8:23,22:50,2.3,0
+429,Kutch-Denesik,New Dorp,Mexican,Cheap,7:20,21:46,5.0,1
+430,Berge and Sons,Jackson Heights,American,Medium,9:11,21:53,3.6,0
+431,Huel LLC,Belmont,Mexican,Cheap,8:48,22:24,5.0,0
+432,"Jacobson, Hane and Lemke",SoHo,American,Cheap,7:27,22:49,3.7,0
+433,Schmidt and Sons,Forest Hills,American,Medium,8:58,21:03,4.1,0
+434,"Feil, Gleichner and Effertz",Flushing,Italian,Cheap,8:39,21:32,1.2,0
+435,Barton-Tremblay,St. George,Mexican,Cheap,8:08,21:00,4.4,0
+436,"Schaden, Konopelski and Altenwerth",Riverdale,American,Cheap,9:59,21:45,2.1,0
+437,Fisher LLC,Flushing,Mediterranean,Medium,7:12,22:29,1.1,0
+438,Fritsch-Bednar,Tottenville,Thai,Cheap,7:23,22:31,3.6,0
+439,Stokes-Nader,Red Hook,Mediterranean,Cheap,9:09,22:19,2.8,1
+440,Carroll-Ruecker,Ridgewood,Mediterranean,Medium,8:44,22:43,2.8,1
+441,Jerde and Sons,Tottenville,Italian,Expensive,7:20,21:56,4.9,0
+442,"Lubowitz, Mertz and Connelly",Long Island City,Thai,Expensive,9:03,21:34,4.4,1
+443,Schowalter-Hodkiewicz,Ridgewood,Mexican,Medium,9:15,22:19,2.4,1
+444,"Lindgren, Runte and Corwin",New Dorp,Mediterranean,Cheap,8:45,22:13,4.6,1
+445,Stokes-Rodriguez,Riverdale,American,Expensive,9:08,21:38,2.6,0
+446,Bruen Inc,Ridgewood,Thai,Expensive,9:05,22:18,2.2,0
+447,"Tromp, Robel and Haley",Red Hook,Mexican,Medium,7:50,22:03,2.7,0
+448,Medhurst Inc,SoHo,Thai,Medium,8:08,22:49,3.9,1
+449,Hoppe-Runolfsson,Hunts Point,Thai,Expensive,7:35,22:05,1.1,1
+450,Pouros LLC,St. George,Italian,Cheap,8:34,21:39,5.0,0
+451,Turner-Lesch,Belmont,Thai,Expensive,8:19,22:35,4.6,1
+452,Leffler-Bashirian,New Dorp,American,Cheap,8:53,21:51,1.4,0
+453,"Wintheiser, Zboncak and Wilkinson",Flushing,American,Medium,8:25,21:55,5.0,1
+454,"Torp, Pfeffer and Bauch",New Dorp,Thai,Cheap,9:36,22:28,2.4,0
+455,Moore-Willms,Pelham Bay,Thai,Expensive,8:29,21:04,2.1,1
+456,"Stamm, Reichel and Nitzsche",New Dorp,Italian,Expensive,7:14,22:10,2.7,1
+457,Steuber and Sons,Harlem,Mediterranean,Medium,7:57,22:41,2.1,0
+458,Wiegand-Bailey,Upper West Side,American,Expensive,9:09,21:45,2.5,0
+459,"Franecki, Gorczany and Feeney",Greenwich Village,Italian,Medium,7:55,21:15,2.4,1
+460,Beatty LLC,Williamsburg,American,Expensive,8:55,21:01,1.4,0
+461,"Ondricka, Thompson and Jaskolski",Flushing,Mediterranean,Medium,7:45,21:05,2.6,1
+462,Trantow and Sons,Bushwick,American,Medium,9:13,22:34,5.0,0
+463,"Ritchie, Ruecker and Crona",Harlem,Mediterranean,Cheap,7:02,21:24,3.6,0
+464,"Bradtke, Ryan and Balistreri",Red Hook,Mexican,Cheap,9:37,21:45,4.9,0
+465,"Luettgen, Fadel and Nicolas",Tottenville,Thai,Medium,9:03,21:00,2.4,0
+466,Yundt-Bruen,Tottenville,American,Expensive,9:26,22:21,2.7,0
+467,"Weimann, Graham and Koch",Riverdale,Mediterranean,Cheap,9:47,22:36,2.4,1
+468,Gleichner and Sons,Crown Heights,Mediterranean,Cheap,7:50,21:37,2.7,0
+469,"Kohler, Ratke and MacGyver",Fordham,Thai,Cheap,9:20,21:20,2.8,0
+470,Bauch-Jast,Red Hook,Mexican,Cheap,7:50,22:47,1.4,0
+471,"Oberbrunner, Zboncak and Fadel",Jackson Heights,American,Expensive,8:01,21:39,4.6,0
+472,"O'Reilly, Nikolaus and Trantow",Tottenville,Italian,Cheap,8:57,21:10,3.0,0
+473,"Roberts, Moore and Koss",Rosebank,American,Cheap,9:16,22:15,3.0,0
+474,"Vandervort, Gleason and Gibson",Forest Hills,Mexican,Expensive,8:31,22:33,1.2,0
+475,Nolan LLC,Brooklyn Heights,American,Cheap,9:14,21:52,5.0,1
+476,Ankunding-Reilly,Pelham Bay,American,Cheap,8:29,22:43,1.7,1
+477,Howe LLC,Upper East Side,Italian,Expensive,7:21,21:54,4.3,1
+478,"Rohan, West and Prosacco",Lower East Side,Mexican,Medium,7:25,22:13,2.8,1
+479,"Ortiz, Goldner and Grimes",Upper West Side,Mexican,Medium,9:09,22:08,1.9,1
+480,Schaefer-Crona,Long Island City,Mexican,Expensive,9:49,21:58,1.5,0
+481,"Fritsch, Gerlach and Farrell",Morris Park,Thai,Expensive,9:24,22:59,3.9,1
+482,Hilll Inc,Greenwich Village,American,Expensive,7:02,22:53,3.9,1
+483,Weimann-McDermott,Red Hook,Thai,Medium,9:52,21:33,3.5,1
+484,Stark and Sons,Fordham,Thai,Expensive,7:12,22:05,1.9,1
+485,Morar-West,Williamsburg,Thai,Medium,8:07,21:34,1.7,0
+486,"Cremin, Pfannerstill and Waters",Upper West Side,Italian,Medium,7:26,21:57,3.6,0
+487,"Oberbrunner, Pacocha and Ullrich",Morris Park,Mexican,Medium,8:11,21:48,1.4,1
+488,Boyle-Wolf,Lower East Side,American,Expensive,9:48,21:59,3.8,1
+489,Heathcote-Ebert,Annadale,Mexican,Expensive,7:00,22:43,1.0,0
+490,Predovic Inc,Red Hook,Italian,Medium,8:12,21:32,4.7,1
+491,Howe-Rath,Fordham,Thai,Cheap,7:28,22:56,2.7,1
+492,Greenfelder-Thompson,Jackson Heights,Italian,Expensive,7:11,22:20,4.6,1
+493,"Windler, Steuber and Graham",Morris Park,Italian,Expensive,8:29,21:26,2.2,0
+494,Schumm and Sons,Rosebank,Mediterranean,Cheap,7:17,21:57,3.8,0
+495,Stokes-Dach,Hunts Point,Mexican,Medium,7:54,22:03,4.1,0
+496,Reichel-Adams,Upper West Side,Mediterranean,Cheap,7:42,21:10,4.9,0
+497,Christiansen LLC,Midtown,Italian,Expensive,9:31,21:23,4.6,0
+498,Hoppe-Gibson,Rosebank,Thai,Cheap,8:16,21:52,2.8,1
+499,"Gulgowski, McDermott and Schultz",Annadale,Mediterranean,Medium,7:08,21:20,4.9,0
+500,"Kerluke, Grant and Hauck",Hunts Point,Mediterranean,Cheap,9:03,22:51,3.8,0
+501,Pagac-Heathcote,Greenwich Village,Thai,Cheap,7:03,21:05,1.4,0
+502,Parker Inc,Upper East Side,Italian,Expensive,9:26,21:27,1.7,1
+503,"Stokes, Thompson and Ferry",Tottenville,Thai,Medium,9:15,22:04,4.2,0
+504,"Schmeler, Welch and Krajcik",SoHo,Mediterranean,Expensive,9:08,22:17,1.0,1
+505,Tremblay LLC,Ridgewood,Italian,Expensive,8:34,22:49,1.9,0
+506,Leffler and Sons,Sunnyside,Italian,Medium,8:00,21:18,1.6,0
+507,Reilly-Cassin,Fordham,American,Cheap,8:39,22:45,1.3,1
+508,"Marvin, Nader and Corkery",Great Kills,Mexican,Cheap,7:27,21:31,3.7,1
+509,Rohan-Boehm,Greenpoint,Italian,Expensive,7:42,21:55,3.7,0
+510,Schmitt-Predovic,Red Hook,Mediterranean,Cheap,8:01,21:55,4.0,0
+511,Watsica Group,Upper West Side,Mexican,Cheap,7:06,21:16,1.7,1
+512,Crist LLC,Upper West Side,Mexican,Cheap,7:42,21:40,2.0,0
+513,Huels-Kiehn,Jackson Heights,Mediterranean,Cheap,7:35,22:16,1.3,0
+514,Feeney-Labadie,Long Island City,Thai,Medium,8:07,21:38,2.4,1
+515,"Legros, Prosacco and Larson",Astoria,Mediterranean,Cheap,7:37,21:59,4.5,0
+516,Botsford-Koss,Astoria,Mexican,Expensive,9:50,21:49,4.1,0
+517,Wolf Group,Sunnyside,Thai,Cheap,9:05,21:12,2.6,0
+518,Witting Inc,Harlem,Mediterranean,Expensive,9:47,21:08,2.6,1
+519,Wolff-Gerlach,Riverdale,Mediterranean,Medium,8:20,22:36,3.9,0
+520,"Hudson, Conroy and Larson",Belmont,American,Expensive,9:03,21:14,2.8,1
+521,Dickens-Strosin,Bushwick,American,Cheap,7:12,21:00,1.8,1
+522,Zulauf-Kessler,Williamsburg,Italian,Cheap,7:45,21:10,3.6,0
+523,Bogan-Aufderhar,Lower East Side,Mexican,Cheap,8:53,22:50,3.4,1
+524,Harvey and Sons,Morris Park,Mediterranean,Expensive,9:58,22:54,4.8,0
+525,Mertz-Crooks,Annadale,Thai,Cheap,8:09,22:27,1.7,0
+526,Hansen Inc,Upper West Side,Thai,Medium,9:41,22:40,1.5,0
+527,"Wilderman, Dickinson and Harvey",Midtown,Mediterranean,Medium,9:33,21:56,4.2,1
+528,Gerhold Group,SoHo,Thai,Medium,7:37,22:41,2.4,0
+529,"Zulauf, Rohan and Walker",Rosebank,Mexican,Expensive,9:42,21:40,2.9,0
+530,"Reichert, Emard and Beier",New Dorp,American,Cheap,8:38,21:11,1.1,0
+531,"Bahringer, Reilly and Greenfelder",Astoria,Italian,Cheap,8:48,21:58,3.3,1
+532,Grimes-Rempel,Great Kills,Thai,Cheap,8:16,21:52,3.3,0
+533,Zieme LLC,Chelsea,American,Medium,7:27,22:40,3.6,1
+534,Torphy and Sons,Belmont,Thai,Medium,8:52,21:05,4.2,1
+535,"Funk, Olson and Powlowski",Great Kills,Thai,Expensive,8:05,22:10,4.8,0
+536,Osinski-Brakus,Lower East Side,Italian,Cheap,9:10,21:21,3.8,1
+537,"Dickens, Kihn and Kilback",Flushing,American,Cheap,7:45,22:09,2.0,0
+538,Lakin Group,Great Kills,Thai,Expensive,9:47,22:51,1.5,0
+539,"Smitham, Bauch and Bergstrom",Williamsburg,Mediterranean,Cheap,7:45,21:43,2.5,1
+540,Wilderman-Kuhic,Hunts Point,American,Medium,7:18,22:11,1.8,0
+541,Lindgren-Stamm,Chelsea,Mexican,Cheap,8:28,22:01,1.4,1
+542,Rice Group,Tottenville,Mexican,Expensive,8:52,21:56,4.7,0
+543,Connelly-Leannon,Pelham Bay,Italian,Expensive,7:18,21:59,3.0,0
+544,D'Amore-Kassulke,Jackson Heights,Mediterranean,Expensive,9:16,22:32,2.7,1
+545,"Hermiston, Harris and Marvin",Annadale,Thai,Medium,7:51,21:27,2.2,1
+546,Prosacco-West,Upper West Side,Mediterranean,Expensive,7:30,21:12,1.9,0
+547,Smitham-Turcotte,Greenpoint,Italian,Cheap,7:47,21:20,4.5,1
+548,Hamill and Sons,Astoria,American,Cheap,9:30,22:46,1.6,1
+549,Ziemann and Sons,Crown Heights,American,Cheap,9:07,22:51,4.7,0
+550,Hudson-Wiegand,Greenwich Village,Mexican,Medium,7:03,21:12,1.8,1
+551,"McLaughlin, Schiller and Mante",Brooklyn Heights,Italian,Cheap,9:34,22:49,4.5,0
+552,Sauer-Herzog,Tottenville,American,Expensive,9:53,21:18,2.8,1
+553,"O'Conner, Bartell and Rau",Tottenville,Thai,Medium,7:22,21:43,1.8,0
+554,"Rath, Von and O'Kon",Williamsburg,Mexican,Medium,9:06,22:06,2.6,1
+555,Kreiger Inc,Ridgewood,Thai,Medium,8:25,21:59,3.8,1
+556,Price-Kihn,SoHo,Mexican,Cheap,9:06,22:42,2.7,0
+557,Simonis Group,Fordham,Mexican,Expensive,8:28,21:01,3.1,1
+558,"Rempel, Murray and Pollich",Hunts Point,Thai,Expensive,7:07,22:58,2.7,0
+559,Armstrong-Hoppe,Harlem,Mediterranean,Medium,7:40,22:29,3.7,0
+560,Leannon Inc,St. George,Thai,Cheap,8:36,22:54,4.8,0
+561,Bashirian-Hammes,Greenwich Village,American,Cheap,9:35,22:08,1.2,0
+562,"O'Hara, Morissette and Koch",Riverdale,Mediterranean,Expensive,8:46,22:58,4.3,1
+563,Kilback-Nolan,Forest Hills,Thai,Cheap,7:35,22:05,1.3,1
+564,Strosin Inc,Williamsburg,Italian,Expensive,7:20,22:57,2.7,0
+565,Flatley and Sons,Astoria,American,Cheap,7:36,21:56,5.0,1
+566,Torp-Jast,Flushing,American,Cheap,7:49,21:36,2.4,1
+567,Auer-Bayer,Jackson Heights,Mexican,Medium,7:46,21:14,2.1,0
+568,"Kuphal, Reinger and Spencer",Upper West Side,Thai,Medium,7:05,21:16,4.8,1
+569,Lueilwitz-Swift,Greenpoint,Italian,Medium,9:37,22:33,3.9,1
+570,"Rippin, Thiel and Kautzer",Bushwick,Mediterranean,Expensive,8:07,21:09,2.5,0
+571,"Hyatt, Rohan and Luettgen",Great Kills,Mediterranean,Medium,7:22,22:08,4.6,0
+572,Rolfson and Sons,Hunts Point,Mexican,Medium,8:56,22:16,3.3,1
+573,Altenwerth-Homenick,St. George,Thai,Expensive,9:57,21:58,3.5,1
+574,Lind-Nitzsche,Belmont,Thai,Expensive,9:54,22:26,4.7,0
+575,Konopelski-Zieme,Flushing,Italian,Expensive,9:49,22:25,1.5,1
+576,Graham-Johnston,Ridgewood,Thai,Cheap,7:20,21:51,1.8,1
+577,Auer LLC,Bushwick,Italian,Medium,7:59,22:52,1.1,0
+578,"Tromp, Quigley and Nolan",Pelham Bay,Italian,Medium,7:35,22:46,1.1,1
+579,Bogan-Jaskolski,Red Hook,Mexican,Cheap,9:34,22:56,3.8,0
+580,Bergnaum Group,Forest Hills,Mexican,Medium,9:36,22:28,2.7,0
+581,Heller-Kessler,Park Slope,Thai,Cheap,9:23,22:42,1.8,1
+582,Oberbrunner-Rosenbaum,SoHo,Thai,Expensive,7:05,22:06,3.4,0
+583,"Nolan, Kris and Weissnat",Bushwick,Mexican,Expensive,9:21,22:23,3.6,0
+584,Tillman LLC,Brooklyn Heights,American,Cheap,7:22,21:49,3.1,1
+585,Jacobi-Dooley,Ridgewood,Mexican,Medium,8:55,22:18,2.6,0
+586,"Marks, Marks and Kutch",Greenpoint,Mexican,Cheap,8:14,22:46,4.2,0
+587,Herman-Lubowitz,Greenpoint,Italian,Expensive,9:39,21:00,2.3,0
+588,Gusikowski Inc,Annadale,Mediterranean,Medium,7:26,21:52,4.9,1
+589,Robel and Sons,Bushwick,American,Medium,7:14,21:08,4.1,0
+590,Anderson Group,Upper East Side,Mexican,Expensive,9:26,22:04,2.3,1
+591,"White, Rempel and Tillman",Great Kills,American,Expensive,9:00,22:17,3.0,0
+592,Jakubowski and Sons,Sunnyside,Mexican,Medium,8:54,21:51,3.6,0
+593,Marquardt-Conn,Williamsburg,American,Expensive,7:08,22:20,2.4,0
+594,Schmitt and Sons,Fordham,Thai,Expensive,9:12,22:38,4.2,1
+595,Raynor-Batz,Astoria,American,Cheap,7:49,22:49,3.4,1
+596,"Welch, Mills and Jacobson",Belmont,Mediterranean,Expensive,9:10,21:36,2.3,0
+597,"Maggio, Beahan and Homenick",Ridgewood,American,Medium,8:47,22:52,2.5,1
+598,"Koepp, Schaefer and Olson",Williamsburg,Mexican,Medium,7:20,22:20,4.9,1
+599,Hammes Inc,Morris Park,Thai,Medium,7:17,21:52,1.9,0
+600,Friesen Group,Greenwich Village,Thai,Medium,9:33,21:52,2.8,0
+601,Ruecker and Sons,Greenwich Village,Mexican,Medium,8:27,22:43,4.6,1
+602,"Upton, Sipes and Bruen",Astoria,American,Expensive,7:29,21:24,3.3,1
+603,"Shanahan, Hermann and Durgan",Forest Hills,Italian,Cheap,9:40,22:55,1.5,1
+604,Rutherford LLC,Rosebank,American,Cheap,9:17,22:41,4.2,1
+605,Boehm Inc,Fordham,Italian,Cheap,9:24,22:01,1.2,0
+606,Heathcote-Erdman,Upper West Side,Mexican,Cheap,9:50,22:19,3.6,1
+607,Hoeger-Keebler,Crown Heights,American,Expensive,7:49,21:24,1.9,0
+608,"Barrows, Bartell and McGlynn",Chelsea,Thai,Cheap,9:29,21:50,3.1,1
+609,Ernser LLC,Hunts Point,Italian,Medium,8:38,21:04,4.1,1
+610,Tremblay-Cassin,Rosebank,Mexican,Cheap,7:32,22:18,4.0,0
+611,Runolfsson Group,Belmont,American,Medium,8:19,22:23,2.9,1
+612,Satterfield Inc,Fordham,Italian,Medium,9:45,22:11,4.3,1
+613,"Morar, Feest and Donnelly",Annadale,Mexican,Cheap,9:50,22:05,3.8,1
+614,Mohr-Cronin,Long Island City,Mediterranean,Expensive,7:09,21:23,4.8,0
+615,"Mann, Zulauf and Klein",Belmont,American,Medium,7:03,22:09,4.1,0
+616,"Botsford, Grant and Volkman",Flushing,Italian,Cheap,7:17,22:15,4.8,1
+617,"Schultz, Botsford and Ernser",Midtown,Thai,Cheap,9:42,21:46,1.9,1
+618,Abshire Inc,Lower East Side,Thai,Cheap,7:58,21:08,1.0,0
+619,"Windler, Smitham and Lang",Pelham Bay,American,Expensive,8:25,22:12,1.5,1
+620,Fahey Inc,Flushing,American,Cheap,8:34,21:54,4.7,1
+621,"Kuhic, Cole and Turcotte",Ridgewood,Thai,Cheap,7:08,22:59,2.8,0
+622,Rempel-Lynch,Pelham Bay,American,Medium,9:54,22:02,4.9,1
+623,"Feil, Torphy and Howe",Upper East Side,American,Expensive,7:00,21:11,3.0,1
+624,"Murphy, Walker and Bartell",Harlem,Thai,Cheap,8:43,21:14,3.1,1
+625,Botsford-Gottlieb,Tottenville,Mediterranean,Expensive,9:25,22:35,3.3,0
+626,Nienow Inc,Forest Hills,Mexican,Expensive,8:50,21:07,4.6,1
+627,O'Keefe-Kozey,Bushwick,Mexican,Expensive,7:54,22:34,4.8,0
+628,Kassulke Inc,Astoria,Mediterranean,Cheap,9:36,22:55,1.5,0
+629,Hegmann Group,New Dorp,American,Cheap,8:26,21:44,1.5,0
+630,Raynor-Christiansen,Ridgewood,Thai,Cheap,9:21,21:30,2.9,0
+631,Towne and Sons,Lower East Side,Italian,Expensive,7:08,21:49,3.2,1
+632,Metz-Hoeger,Pelham Bay,Mexican,Expensive,8:45,21:25,3.1,0
+633,Weissnat-Schamberger,Tottenville,Mexican,Cheap,7:53,22:47,1.4,0
+634,Lakin Group,Williamsburg,Mexican,Expensive,7:00,21:18,3.1,0
+635,Pfannerstill and Sons,Rosebank,Mexican,Cheap,9:52,22:00,1.1,1
+636,Watsica Group,Belmont,Thai,Medium,8:49,21:47,2.7,1
+637,Hirthe-McCullough,Forest Hills,Mexican,Medium,7:27,21:55,3.6,1
+638,"Christiansen, Stroman and Luettgen",Pelham Bay,Thai,Cheap,9:56,21:49,4.2,1
+639,"Moen, Greenfelder and Little",Long Island City,Mexican,Expensive,7:27,21:53,3.5,1
+640,Huel Inc,Pelham Bay,Thai,Medium,7:14,22:19,1.5,1
+641,Schaefer Inc,Pelham Bay,Thai,Cheap,8:57,22:03,2.1,1
+642,Torphy-Hessel,Lower East Side,Mediterranean,Expensive,7:21,22:06,2.8,1
+643,"Waelchi, Bednar and Rippin",Ridgewood,Thai,Expensive,9:16,21:10,3.0,1
+644,"Gulgowski, Reichert and Emard",Park Slope,Mediterranean,Expensive,7:06,22:24,3.8,0
+645,"Rice, Rowe and Upton",Lower East Side,Italian,Cheap,9:42,22:28,4.5,1
+646,O'Reilly-Sporer,Jackson Heights,Mediterranean,Expensive,9:31,22:28,2.6,0
+647,Pollich-Howell,Red Hook,American,Medium,8:49,22:23,2.6,0
+648,Grimes LLC,SoHo,Thai,Expensive,8:42,21:55,2.0,1
+649,"Lueilwitz, Kiehn and Kunde",Upper East Side,Mexican,Cheap,7:43,22:48,4.2,1
+650,"Hoeger, Lemke and Braun",Red Hook,Italian,Expensive,8:23,21:04,1.4,0
+651,Rolfson-Feest,Lower East Side,Mediterranean,Cheap,7:55,22:23,3.3,1
+652,Ernser-Reichert,Riverdale,Italian,Cheap,7:48,21:49,1.7,0
+653,"Cruickshank, Baumbach and Parisian",New Dorp,American,Cheap,7:58,22:34,2.6,0
+654,"Dicki, Heidenreich and West",Williamsburg,American,Cheap,7:15,21:56,4.7,1
+655,"Wiegand, Dooley and Bailey",Crown Heights,Mexican,Medium,9:16,21:50,2.1,1
+656,Maggio-Ferry,Long Island City,Mexican,Expensive,9:01,22:13,1.4,0
+657,Legros-Koch,Hunts Point,Mediterranean,Medium,7:23,22:26,2.0,1
+658,Bruen-Murray,Lower East Side,Thai,Cheap,8:12,21:02,1.3,1
+659,"Emmerich, Bruen and Ritchie",Brooklyn Heights,Mexican,Cheap,9:32,22:31,2.1,0
+660,Durgan-Price,Upper East Side,Thai,Cheap,9:39,22:03,3.7,1
+661,"Walsh, White and Reichel",Bushwick,Italian,Cheap,9:26,21:25,2.2,0
+662,"Ratke, Altenwerth and Rodriguez",Morris Park,Mediterranean,Expensive,7:58,22:21,3.6,1
+663,"Wunsch, Mertz and Kutch",Ridgewood,Mexican,Expensive,8:15,22:52,3.3,0
+664,Sipes-Goldner,Upper West Side,Thai,Expensive,7:07,21:35,1.6,0
+665,"Kihn, Ruecker and Buckridge",St. George,Thai,Cheap,7:13,22:59,4.4,1
+666,"Zieme, Beier and Hammes",Rosebank,Mediterranean,Expensive,9:27,21:00,3.1,1
+667,Kuvalis and Sons,Sunnyside,American,Cheap,8:02,21:35,1.6,1
+668,"Smitham, Mayert and Okuneva",Crown Heights,Thai,Medium,8:51,22:12,3.9,1
+669,Bergnaum-Weimann,Upper East Side,Thai,Expensive,8:38,22:43,4.2,1
+670,"Heidenreich, Hackett and Lemke",Greenwich Village,Mediterranean,Medium,8:04,22:57,3.8,0
+671,Jenkins Inc,Brooklyn Heights,Mexican,Cheap,8:53,21:21,3.0,1
+672,"Skiles, Blanda and Nikolaus",Flushing,Italian,Cheap,7:09,22:03,3.8,0
+673,"O'Connell, Murphy and Yundt",Morris Park,American,Expensive,8:53,21:17,3.4,1
+674,Dietrich Group,Ridgewood,Italian,Medium,7:15,21:00,4.4,0
+675,Crona LLC,Long Island City,Italian,Medium,8:22,22:00,4.9,0
+676,Champlin-Feil,Upper East Side,Italian,Expensive,7:21,22:18,2.6,0
+677,Rodriguez-Bruen,Belmont,Thai,Expensive,7:05,21:13,4.8,1
+678,"Kuhn, Thiel and McGlynn",Annadale,Italian,Expensive,9:57,21:43,4.1,1
+679,Kirlin-Fisher,Greenpoint,Mexican,Medium,7:02,21:12,3.7,1
+680,"Grady, Carter and Spinka",St. George,Mexican,Expensive,9:20,21:24,1.3,1
+681,"Boehm, Gulgowski and Greenfelder",St. George,Mexican,Cheap,7:48,22:20,3.9,0
+682,Hand Group,Long Island City,Thai,Cheap,7:37,21:05,2.9,0
+683,Torphy-Erdman,Crown Heights,Mexican,Medium,8:42,22:48,2.7,1
+684,Crist-Ullrich,Harlem,Italian,Medium,7:37,21:03,4.8,1
+685,Wilkinson-Emmerich,Brooklyn Heights,Mediterranean,Expensive,8:30,22:05,2.6,1
+686,Rippin and Sons,Rosebank,Mexican,Expensive,7:10,21:07,4.6,0
+687,"Deckow, Walsh and Tremblay",Upper West Side,American,Medium,7:27,22:25,2.9,0
+688,Mosciski-Hauck,Harlem,Thai,Expensive,9:55,22:39,3.4,0
+689,Gulgowski Inc,Crown Heights,Mexican,Cheap,9:10,21:18,4.9,0
+690,"Hansen, Connelly and Feest",Annadale,Thai,Medium,9:18,21:24,3.3,0
+691,McLaughlin-Williamson,Williamsburg,American,Cheap,9:51,21:24,1.1,0
+692,Pfannerstill and Sons,Pelham Bay,Mediterranean,Cheap,9:01,21:29,3.3,0
+693,"McCullough, Kling and Reilly",St. George,Thai,Expensive,8:13,22:29,3.9,0
+694,Barton and Sons,New Dorp,Italian,Medium,8:36,22:14,3.9,0
+695,Schneider LLC,Hunts Point,American,Medium,7:58,21:25,3.1,1
+696,Treutel and Sons,Rosebank,Mediterranean,Cheap,7:02,22:15,3.1,1
+697,"Mayert, Koss and Casper",Riverdale,Thai,Medium,7:41,22:53,5.0,1
+698,"Anderson, Wuckert and Labadie",Chelsea,Thai,Expensive,7:07,22:16,2.4,1
+699,Hessel Group,Belmont,Thai,Expensive,7:01,22:49,1.4,1
+700,Langosh Group,Annadale,American,Expensive,9:43,22:38,1.2,1
+701,"Prosacco, Russel and Wolff",Bushwick,Mediterranean,Cheap,7:50,21:50,5.0,0
+702,Torp-Wyman,Pelham Bay,Thai,Medium,7:31,21:14,3.9,1
+703,Sporer-Muller,Tottenville,Mexican,Medium,8:32,22:17,4.7,1
+704,Thiel and Sons,Long Island City,American,Cheap,8:29,22:47,4.4,0
+705,Swaniawski-O'Kon,Bushwick,American,Cheap,7:27,21:43,4.4,0
+706,Schmitt Inc,Long Island City,Mediterranean,Medium,9:28,22:49,1.3,0
+707,Krajcik-Gaylord,Astoria,American,Expensive,8:07,21:48,2.6,1
+708,Glover LLC,St. George,Mexican,Medium,8:50,22:44,1.6,1
+709,"Collins, Beahan and Adams",Pelham Bay,Mexican,Cheap,9:19,22:00,4.0,0
+710,Batz and Sons,Lower East Side,Mediterranean,Cheap,9:27,22:02,1.7,0
+711,"Gutmann, Mohr and Marks",Pelham Bay,Italian,Cheap,9:59,22:21,5.0,1
+712,"Bahringer, Hagenes and Reichel",Brooklyn Heights,Mexican,Expensive,9:10,21:49,2.1,1
+713,Pacocha Group,Bushwick,Mediterranean,Medium,9:28,22:39,3.6,0
+714,"Nolan, Mohr and Roberts",Park Slope,Mexican,Cheap,9:44,21:54,2.2,1
+715,"Shanahan, Rogahn and Mertz",Red Hook,American,Medium,8:21,22:39,3.9,1
+716,Harvey-Watsica,Park Slope,Italian,Medium,9:14,21:32,3.8,1
+717,O'Connell LLC,Brooklyn Heights,Italian,Expensive,9:44,21:33,3.6,0
+718,"Corkery, Kshlerin and Treutel",Harlem,Mediterranean,Expensive,7:24,21:36,1.7,0
+719,"Schmidt, Monahan and Bartoletti",Hunts Point,Mediterranean,Expensive,8:20,21:32,2.2,1
+720,Torphy-Larson,Harlem,Italian,Expensive,9:30,22:07,2.8,1
+721,Rogahn Inc,Chelsea,American,Expensive,9:45,21:49,5.0,0
+722,"Kozey, Ortiz and Maggio",Brooklyn Heights,Italian,Medium,7:20,21:22,4.5,1
+723,Hills-Nolan,Sunnyside,Italian,Cheap,9:21,21:26,3.7,0
+724,Huels Group,Morris Park,Mediterranean,Medium,8:37,22:42,3.3,0
+725,"Beier, Doyle and McLaughlin",Annadale,Italian,Expensive,8:14,21:51,4.5,0
+726,"DuBuque, McLaughlin and Dibbert",Chelsea,Mediterranean,Medium,9:34,22:13,3.7,0
+727,"Hahn, Wiza and Schaden",Great Kills,Italian,Medium,8:27,22:17,3.2,1
+728,"Lehner, Terry and Anderson",Fordham,Mediterranean,Medium,8:20,21:16,2.8,1
+729,Howell-Bins,Pelham Bay,Thai,Expensive,9:43,21:23,1.7,0
+730,"Berge, Gottlieb and Goyette",Greenpoint,Thai,Expensive,9:31,21:56,1.3,0
+731,"Simonis, Stamm and Koepp",Rosebank,Mexican,Medium,9:51,21:02,2.4,1
+732,Kreiger-Price,Jackson Heights,Thai,Expensive,7:05,22:25,3.9,0
+733,Schmidt LLC,Upper East Side,American,Medium,7:25,21:38,4.2,1
+734,"Watsica, Johns and Kovacek",Sunnyside,Mexican,Expensive,8:30,21:54,4.9,1
+735,"Bechtelar, Ledner and Hudson",Park Slope,Thai,Cheap,8:31,22:47,2.9,0
+736,"Hodkiewicz, Bergstrom and Littel",SoHo,Italian,Medium,8:26,22:14,1.0,1
+737,Glover-Dare,Red Hook,Italian,Cheap,8:57,21:45,2.7,0
+738,Hartmann Inc,Belmont,Italian,Expensive,7:34,22:48,3.3,1
+739,"Yundt, Greenholt and Schulist",Greenwich Village,Thai,Cheap,9:56,22:32,2.2,1
+740,"Jacobs, Durgan and Gleason",Upper East Side,Mediterranean,Cheap,9:41,22:23,4.0,1
+741,Wiza-Hyatt,Harlem,Thai,Expensive,7:02,22:01,2.9,0
+742,Satterfield Group,Jackson Heights,Mediterranean,Medium,7:01,21:18,3.0,1
+743,"Greenfelder, Krajcik and Gerlach",Riverdale,Thai,Medium,9:56,21:21,3.6,0
+744,"McClure, Rempel and Nolan",Crown Heights,Thai,Medium,8:05,21:22,4.8,1
+745,Morissette LLC,Ridgewood,Mexican,Expensive,8:26,21:07,3.1,0
+746,"Haag, Mueller and Labadie",New Dorp,American,Expensive,7:46,22:49,3.4,0
+747,Trantow and Sons,Upper East Side,Italian,Expensive,7:31,22:07,3.6,1
+748,"Boehm, Toy and Graham",Williamsburg,Mexican,Medium,7:26,21:41,3.4,0
+749,Considine Group,Upper West Side,Mexican,Medium,7:33,22:29,4.1,1
+750,Stoltenberg Inc,Brooklyn Heights,American,Cheap,8:27,21:59,1.0,1
+751,Volkman-Hane,Jackson Heights,Mediterranean,Cheap,9:24,21:54,3.9,0
+752,"Bayer, Rau and Rath",Riverdale,American,Expensive,9:03,21:23,1.7,0
+753,"Moen, Bode and Gibson",Belmont,Mexican,Cheap,8:20,21:22,3.2,1
+754,Spinka Inc,Hunts Point,Mediterranean,Medium,9:13,21:37,1.3,1
+755,Kuhlman LLC,Hunts Point,Italian,Expensive,9:16,21:00,1.0,0
+756,"Padberg, Ernser and Boyle",Midtown,Thai,Cheap,7:55,22:54,1.7,0
+757,Larson-Sauer,Chelsea,Mexican,Expensive,7:09,21:45,3.2,0
+758,Yost and Sons,Pelham Bay,Mediterranean,Medium,9:42,21:59,4.3,1
+759,"Gorczany, Carroll and Oberbrunner",Harlem,Mexican,Expensive,9:15,22:12,1.4,0
+760,"Murphy, McKenzie and Paucek",Upper East Side,Mediterranean,Expensive,7:53,21:48,1.8,0
+761,"Johnson, Stanton and Ziemann",Crown Heights,Mexican,Medium,8:59,21:25,1.4,0
+762,"Upton, Powlowski and Kessler",Flushing,Thai,Cheap,8:32,21:14,1.7,0
+763,"Langworth, Hirthe and Thompson",Greenwich Village,American,Expensive,9:40,21:25,2.0,1
+764,"Murphy, Little and Hartmann",Lower East Side,Mexican,Cheap,7:32,21:21,3.5,0
+765,"Jones, Anderson and Jones",Lower East Side,Thai,Expensive,9:43,21:11,3.1,0
+766,Mohr Inc,Annadale,Mexican,Expensive,7:31,22:49,3.5,1
+767,Cummings-Swaniawski,Lower East Side,American,Expensive,8:30,22:09,3.2,0
+768,"Huel, Medhurst and Fritsch",Rosebank,Mexican,Cheap,9:20,22:38,2.6,0
+769,"Kshlerin, Carroll and O'Conner",Harlem,Thai,Medium,9:37,22:06,4.9,0
+770,"Schuppe, Collins and Grant",SoHo,Thai,Medium,7:19,22:35,1.8,1
+771,"Watsica, Wisoky and Ritchie",Astoria,Italian,Cheap,7:21,22:55,4.1,1
+772,"Windler, Carroll and Gislason",Jackson Heights,Mexican,Cheap,9:42,22:17,4.7,0
+773,Leannon-Upton,Lower East Side,Thai,Medium,9:14,22:44,4.0,0
+774,Dach Inc,Rosebank,Thai,Expensive,7:19,22:39,2.0,0
+775,"Cremin, Reichert and Littel",Tottenville,American,Medium,8:59,22:04,1.3,1
+776,"Kunze, Reichel and Kohler",Great Kills,American,Cheap,9:50,22:56,3.0,1
+777,Pfeffer and Sons,St. George,Mediterranean,Expensive,9:24,22:49,4.8,0
+778,Zulauf Group,St. George,Italian,Expensive,9:03,22:02,1.4,0
+779,Cremin-Jaskolski,St. George,American,Medium,8:49,21:05,1.6,1
+780,"Schmidt, Moen and Buckridge",Jackson Heights,Italian,Medium,9:58,21:38,2.1,0
+781,"McGlynn, Hintz and Kuhic",SoHo,Mediterranean,Cheap,8:03,22:39,3.0,0
+782,"Waters, Marvin and Keeling",Greenpoint,Thai,Medium,7:49,22:03,1.5,1
+783,Schamberger-Hirthe,New Dorp,Thai,Expensive,7:47,21:50,1.6,0
+784,Parisian Inc,Ridgewood,Mexican,Expensive,9:29,21:03,1.3,0
+785,Jakubowski-Keeling,Rosebank,Thai,Expensive,7:27,21:38,4.8,1
+786,Kunze Group,Annadale,Thai,Medium,7:51,21:15,2.4,0
+787,Cassin-Schneider,Annadale,Italian,Expensive,7:58,22:47,2.9,0
+788,Green LLC,Greenwich Village,Italian,Medium,8:30,21:09,2.7,0
+789,"Smitham, Kovacek and Schmeler",Midtown,Mediterranean,Cheap,8:28,22:28,4.0,0
+790,"Effertz, Ernser and Brekke",Belmont,Mexican,Expensive,8:22,22:21,2.1,1
+791,Rau and Sons,Tottenville,Mediterranean,Expensive,9:37,21:31,4.4,1
+792,Nader Inc,Riverdale,Mediterranean,Medium,9:25,22:01,2.5,0
+793,Kunde-Kertzmann,Brooklyn Heights,Mexican,Cheap,9:39,22:19,2.1,0
+794,Olson-Ullrich,Greenpoint,American,Medium,8:10,21:50,1.7,0
+795,Kuhlman-Hermann,Lower East Side,American,Expensive,7:36,22:54,3.0,0
+796,"Beier, Jaskolski and Mertz",Greenpoint,Mexican,Expensive,9:10,21:46,1.8,0
+797,Blanda Group,Harlem,Thai,Medium,8:28,22:15,3.5,0
+798,Kautzer-Quigley,Jackson Heights,Mediterranean,Expensive,9:20,21:09,4.3,0
+799,"Zieme, Osinski and Stark",Annadale,Thai,Expensive,8:13,21:38,3.2,1
+800,"Feil, Boehm and Leuschke",Long Island City,Mexican,Cheap,9:35,21:43,4.0,0
+801,"Pfeffer, Roob and Schoen",Upper West Side,American,Cheap,7:20,21:38,2.7,0
+802,Hoppe-O'Reilly,Greenpoint,Mexican,Medium,9:47,21:38,4.6,0
+803,"Abbott, Kling and Hayes",Long Island City,Italian,Medium,8:43,21:14,1.5,1
+804,Hickle-Stracke,Great Kills,Thai,Medium,8:19,21:32,4.4,0
+805,Conn-Satterfield,St. George,Mexican,Expensive,9:10,22:22,3.7,0
+806,Wehner Inc,Jackson Heights,Mediterranean,Medium,9:45,21:07,1.1,0
+807,"Stroman, Mayer and Pfeffer",Greenpoint,Thai,Medium,8:22,22:27,4.5,1
+808,"Torphy, Cartwright and Bashirian",Belmont,American,Expensive,7:22,21:16,4.7,1
+809,"Conn, Sauer and Ortiz",Sunnyside,Mediterranean,Expensive,7:14,21:58,4.7,0
+810,Torp-Kassulke,Harlem,Mediterranean,Medium,8:35,22:28,3.0,1
+811,"Conroy, Koelpin and Daniel",Bushwick,Italian,Medium,8:24,21:50,3.0,0
+812,McKenzie Inc,Greenwich Village,American,Expensive,7:47,22:25,3.4,0
+813,"Murphy, Streich and Dibbert",Morris Park,Mediterranean,Cheap,8:48,22:09,1.2,0
+814,"Huel, Kuhn and Pacocha",Jackson Heights,Mexican,Cheap,9:05,21:06,1.2,0
+815,Bartell-Reinger,Fordham,American,Cheap,8:24,22:18,3.9,0
+816,Gislason and Sons,Riverdale,Mexican,Medium,9:12,22:28,2.0,1
+817,Bartell LLC,Hunts Point,Mexican,Medium,8:27,22:25,3.7,1
+818,"Nader, Turcotte and Bode",Greenwich Village,Mediterranean,Expensive,7:29,21:20,1.8,1
+819,Langworth and Sons,Chelsea,Thai,Expensive,9:23,22:55,1.4,0
+820,"O'Reilly, Beatty and Ritchie",Williamsburg,Mexican,Medium,9:57,22:33,3.9,1
+821,Considine-Rohan,Flushing,Mexican,Medium,9:42,21:43,2.8,1
+822,"Shields, McCullough and Wunsch",New Dorp,Mediterranean,Medium,8:07,21:59,3.5,0
+823,Bosco and Sons,Fordham,Thai,Expensive,7:54,22:19,4.4,0
+824,Ullrich-Miller,Long Island City,Mediterranean,Medium,8:22,21:47,1.1,0
+825,Trantow and Sons,Flushing,Thai,Cheap,7:38,21:12,3.9,1
+826,Pfannerstill LLC,Harlem,Thai,Cheap,9:15,22:34,3.5,0
+827,"Durgan, Schmidt and Waters",New Dorp,Italian,Expensive,7:59,21:53,4.6,0
+828,"Feil, Oberbrunner and Fisher",Belmont,American,Medium,9:42,22:57,4.5,1
+829,Mueller-Prosacco,Upper East Side,American,Expensive,7:35,21:30,4.9,1
+830,Wilderman-Gleason,St. George,American,Cheap,9:53,21:36,3.2,1
+831,Wisozk-Schowalter,Jackson Heights,Italian,Expensive,9:21,21:41,4.1,0
+832,Williamson Inc,Belmont,American,Expensive,8:58,22:20,4.6,0
+833,MacGyver and Sons,Hunts Point,Thai,Expensive,7:01,22:27,2.0,0
+834,Hammes LLC,Upper East Side,American,Cheap,7:02,22:37,2.9,1
+835,"Wyman, Morar and Roob",Red Hook,Mediterranean,Medium,8:07,21:31,3.8,1
+836,"Metz, Kuvalis and Champlin",Bushwick,Thai,Cheap,9:50,22:17,3.0,1
+837,"Daugherty, Gorczany and Smith",Red Hook,Mediterranean,Medium,8:46,22:08,4.2,1
+838,"O'Reilly, Kshlerin and Robel",Belmont,Italian,Medium,8:34,22:04,1.3,1
+839,Cartwright-Graham,Belmont,Mediterranean,Medium,9:59,21:13,4.7,0
+840,Runte Inc,Great Kills,American,Medium,7:46,21:49,2.4,1
+841,Braun-Kihn,Flushing,Mediterranean,Cheap,8:42,22:04,1.0,0
+842,McLaughlin Group,Red Hook,Mediterranean,Expensive,8:01,21:11,2.9,0
+843,"West, Frami and Flatley",Belmont,Thai,Expensive,7:55,21:21,1.5,0
+844,Shields Group,Brooklyn Heights,Italian,Medium,7:03,22:03,3.7,0
+845,Price-Gorczany,Harlem,Mexican,Medium,7:32,22:22,1.2,1
+846,"Koelpin, Morissette and Larson",Forest Hills,Mexican,Medium,9:20,22:12,3.0,1
+847,Smith Group,Hunts Point,Mexican,Expensive,8:13,22:31,4.2,1
+848,Rath and Sons,Upper West Side,Thai,Expensive,7:08,22:03,1.0,1
+849,Prosacco LLC,Long Island City,Italian,Medium,9:45,22:46,4.6,0
+850,"Dare, Casper and Hansen",Midtown,Mexican,Cheap,8:45,21:30,2.3,0
+851,Howe Inc,Greenpoint,Mexican,Medium,9:11,22:49,4.3,0
+852,Gerlach and Sons,Long Island City,American,Expensive,8:06,22:30,2.3,0
+853,Stehr and Sons,Red Hook,Thai,Medium,7:41,22:45,3.3,0
+854,Hyatt-Nader,Ridgewood,Mexican,Expensive,8:18,21:20,2.0,0
+855,"Bins, Rath and Greenholt",Great Kills,American,Cheap,9:11,21:14,1.2,1
+856,Braun-Schmidt,Williamsburg,Mexican,Expensive,9:03,22:46,4.1,1
+857,"Ondricka, Mueller and Bogan",Sunnyside,Italian,Medium,7:27,22:17,2.1,0
+858,Tillman-Waters,St. George,Thai,Cheap,7:40,22:46,2.9,1
+859,Fahey-Reilly,Harlem,Thai,Expensive,9:20,21:21,1.1,0
+860,Kiehn-Champlin,Williamsburg,Italian,Expensive,7:05,21:38,3.2,0
+861,Schiller Group,Forest Hills,Italian,Expensive,7:40,22:02,4.9,0
+862,Hoppe-Sawayn,Jackson Heights,Mediterranean,Cheap,8:11,21:27,1.5,1
+863,"Grant, Reynolds and Marvin",Riverdale,Mediterranean,Medium,9:11,22:23,2.1,1
+864,Friesen-Raynor,Crown Heights,Mediterranean,Expensive,9:54,21:12,2.2,1
+865,Jacobi-Witting,Midtown,Italian,Medium,8:18,22:28,2.2,0
+866,Prosacco Inc,St. George,Thai,Medium,7:25,22:57,1.7,1
+867,Spencer Group,Morris Park,Mexican,Medium,8:32,22:21,3.6,0
+868,"Schoen, Littel and Jakubowski",Upper West Side,Mexican,Expensive,9:14,22:30,4.4,1
+869,Yundt LLC,Ridgewood,Mexican,Expensive,9:30,22:44,1.8,0
+870,Bayer LLC,Ridgewood,Mexican,Expensive,7:11,22:21,4.1,0
+871,Kuhlman Inc,Greenwich Village,Thai,Expensive,8:12,22:22,1.6,0
+872,Mraz Inc,Pelham Bay,American,Medium,7:16,21:25,2.8,0
+873,Herzog-Greenfelder,Midtown,Mexican,Cheap,7:53,21:16,2.5,0
+874,Schmeler and Sons,Flushing,Mexican,Medium,9:32,21:18,4.7,1
+875,Kshlerin-Price,Bushwick,Mexican,Medium,7:09,22:03,4.5,1
+876,"Bradtke, Ryan and Gusikowski",Williamsburg,Thai,Cheap,9:55,22:00,1.5,0
+877,Schumm and Sons,Great Kills,American,Expensive,9:37,21:12,2.5,0
+878,Ratke-Reynolds,Great Kills,Mexican,Expensive,8:13,21:12,2.4,0
+879,Crooks-Sanford,Hunts Point,American,Cheap,9:42,22:13,3.0,1
+880,Bahringer Group,Crown Heights,Mediterranean,Cheap,7:09,21:53,3.1,1
+881,Hirthe-Brakus,Crown Heights,Mediterranean,Medium,7:14,22:22,4.5,0
+882,Dach Group,Fordham,Italian,Cheap,9:48,21:56,1.7,0
+883,"Ullrich, Feest and Wisozk",Midtown,Thai,Expensive,8:22,21:52,2.3,0
+884,Beer-Larson,Greenpoint,American,Expensive,7:03,21:28,2.2,1
+885,"Bradtke, Hammes and Sanford",Tottenville,American,Medium,8:45,22:57,3.8,1
+886,"Kunde, Thompson and Bergstrom",Rosebank,Thai,Expensive,9:09,22:09,1.7,0
+887,Stoltenberg-DuBuque,Flushing,Thai,Cheap,8:24,22:30,2.4,1
+888,Mayer-Casper,Pelham Bay,Mexican,Medium,9:07,22:18,3.3,1
+889,Wilkinson Inc,Hunts Point,Thai,Medium,9:51,22:42,4.6,0
+890,"Howe, Ebert and Effertz",Riverdale,Thai,Expensive,8:37,22:24,3.9,1
+891,"Durgan, Davis and Vandervort",Hunts Point,Italian,Cheap,8:45,22:03,4.1,1
+892,"Boyer, Hamill and Lehner",Red Hook,Italian,Medium,9:25,22:00,3.0,0
+893,Price-Mohr,Chelsea,Mediterranean,Expensive,9:40,21:40,1.1,0
+894,Kuvalis LLC,Forest Hills,American,Cheap,7:42,21:32,2.0,0
+895,Rosenbaum-Gorczany,Park Slope,Italian,Cheap,9:09,21:36,1.6,0
+896,Hagenes LLC,Flushing,Mediterranean,Medium,9:37,21:31,2.2,0
+897,"Langosh, Wyman and Labadie",Midtown,Italian,Cheap,8:15,22:10,4.7,0
+898,"Lynch, Rice and Hammes",Astoria,Italian,Cheap,8:05,22:14,4.9,1
+899,Huels LLC,Upper East Side,Thai,Medium,7:58,21:27,3.4,1
+900,Torphy LLC,Long Island City,Italian,Medium,9:56,22:55,1.2,0
+901,"Volkman, Smitham and Weber",Greenwich Village,Thai,Expensive,9:26,21:56,1.6,1
+902,Wilderman LLC,Red Hook,Italian,Expensive,7:26,22:23,2.1,1
+903,Hayes-Hackett,Williamsburg,American,Cheap,7:55,22:35,2.6,0
+904,"Haag, Collier and Bergstrom",Bushwick,Mexican,Cheap,9:21,21:34,5.0,0
+905,"Ortiz, Wunsch and Konopelski",Bushwick,Mediterranean,Medium,7:29,22:26,3.4,0
+906,Collins-Schamberger,Fordham,Thai,Medium,9:51,21:07,4.2,0
+907,"Donnelly, Corkery and Leuschke",Red Hook,Italian,Cheap,8:03,21:19,2.0,0
+908,"Frami, Wolff and Feest",Morris Park,Mediterranean,Expensive,9:08,21:47,1.2,0
+909,Roberts and Sons,Sunnyside,Mexican,Expensive,7:01,22:01,2.0,1
+910,Rau-Rolfson,Bushwick,Mediterranean,Medium,8:02,22:15,3.2,1
+911,"Connelly, Hansen and Legros",Greenpoint,Thai,Cheap,9:34,21:50,2.0,0
+912,Zieme Inc,Belmont,Mediterranean,Medium,7:59,21:45,3.4,0
+913,Kshlerin-Schowalter,Upper West Side,Thai,Cheap,8:04,21:58,2.5,0
+914,"Wintheiser, Fisher and Collins",Chelsea,Mexican,Cheap,7:21,22:39,1.3,1
+915,"Hansen, Hagenes and Huels",Williamsburg,Mediterranean,Expensive,7:30,21:07,1.7,1
+916,Kozey-Bernhard,Fordham,Italian,Expensive,9:50,22:01,2.7,0
+917,Swift-Tremblay,St. George,Italian,Medium,9:19,22:11,1.2,1
+918,Padberg Inc,Great Kills,Italian,Expensive,8:28,21:06,1.8,0
+919,"Collins, Robel and Collins",Greenwich Village,Mexican,Cheap,7:54,22:49,4.1,0
+920,"Hintz, Zulauf and Schaefer",Harlem,Mexican,Expensive,7:29,21:46,2.0,1
+921,Zulauf LLC,Rosebank,Italian,Cheap,7:17,22:43,1.4,1
+922,Harber-Schowalter,Rosebank,Mexican,Cheap,7:14,22:50,3.3,0
+923,"Harber, Quigley and Ebert",Forest Hills,Mediterranean,Medium,8:56,21:03,1.5,0
+924,"DuBuque, Williamson and Bergnaum",Greenwich Village,Mexican,Expensive,9:36,22:42,2.7,1
+925,Hudson and Sons,Forest Hills,Mexican,Expensive,8:53,21:14,4.4,0
+926,"Mayer, Doyle and Torp",Pelham Bay,Mediterranean,Medium,8:26,21:25,4.9,0
+927,"Keeling, Ullrich and Blick",St. George,Thai,Medium,7:16,21:35,3.4,1
+928,"Sauer, Reynolds and Jenkins",Greenwich Village,Mediterranean,Expensive,7:48,22:01,1.6,1
+929,"Turner, Batz and Nikolaus",Riverdale,Italian,Medium,8:56,22:46,2.8,1
+930,"Mohr, Dach and Shanahan",Astoria,Italian,Expensive,8:39,22:59,1.6,0
+931,"Wolf, Nolan and Schmitt",St. George,Thai,Cheap,8:41,21:20,2.5,1
+932,Durgan-Williamson,Fordham,Thai,Expensive,9:49,22:39,2.1,0
+933,Pollich-Mitchell,Astoria,American,Medium,8:13,21:53,4.1,0
+934,"Cummings, Welch and Ullrich",Chelsea,Mexican,Cheap,8:30,22:25,3.8,0
+935,Hettinger-Strosin,Crown Heights,Mediterranean,Medium,7:47,21:28,1.0,0
+936,Wyman-Metz,New Dorp,Mediterranean,Expensive,8:14,22:02,3.9,0
+937,Sporer Group,Ridgewood,American,Medium,8:01,22:50,2.1,1
+938,"Feeney, Jaskolski and Wehner",Greenwich Village,Mexican,Cheap,9:22,22:41,2.0,0
+939,Farrell Group,Riverdale,Mexican,Medium,7:41,21:10,2.5,0
+940,Ferry-Heathcote,Riverdale,Italian,Expensive,8:36,21:46,3.7,1
+941,"Reichert, Glover and Keeling",Lower East Side,Mexican,Cheap,8:55,21:13,2.1,0
+942,Rowe-White,Red Hook,Mexican,Expensive,9:13,22:05,3.6,1
+943,Morissette-Jast,Astoria,Thai,Expensive,9:02,21:51,3.0,0
+944,Swift-Friesen,Belmont,Mediterranean,Cheap,8:19,22:54,4.3,1
+945,"Becker, Hyatt and Ebert",Lower East Side,Mexican,Expensive,7:37,22:04,3.2,1
+946,Smitham-Funk,Bushwick,Thai,Expensive,9:25,21:22,4.6,0
+947,"Jenkins, Welch and Pfeffer",Red Hook,Thai,Medium,8:15,21:30,4.1,1
+948,Kertzmann Group,Sunnyside,Italian,Medium,7:14,22:28,2.2,1
+949,Huels-Jones,Great Kills,Mexican,Cheap,8:13,22:59,2.7,0
+950,"Brekke, Mitchell and Stokes",Tottenville,Thai,Expensive,8:15,21:21,4.5,1
+951,Herzog Group,Tottenville,Mediterranean,Medium,7:05,22:13,2.8,0
+952,Runolfsson LLC,Park Slope,Italian,Medium,8:10,21:41,2.8,1
+953,Bernier Group,Annadale,Thai,Expensive,8:43,21:36,1.6,1
+954,Nitzsche-Kerluke,Brooklyn Heights,Thai,Medium,8:08,22:19,2.4,1
+955,O'Conner Inc,Fordham,Mediterranean,Expensive,9:58,22:06,4.9,1
+956,"Pfeffer, Kuhic and Weissnat",Riverdale,Mexican,Medium,7:53,21:17,4.4,1
+957,"Conroy, Leannon and Torp",Greenpoint,Mexican,Medium,9:56,22:49,2.0,1
+958,Medhurst-Torphy,Belmont,Mediterranean,Expensive,9:50,22:49,2.8,1
+959,"Steuber, Dietrich and Prosacco",Sunnyside,American,Expensive,7:36,22:05,4.1,0
+960,Fritsch-Wunsch,Harlem,American,Medium,7:53,21:09,4.7,1
+961,Gusikowski LLC,Williamsburg,Thai,Cheap,8:34,22:25,4.4,0
+962,O'Hara-Reilly,Chelsea,Italian,Cheap,7:54,21:20,1.1,1
+963,"Goodwin, Cartwright and Johns",Greenpoint,Mexican,Cheap,9:05,22:25,3.2,1
+964,"Stracke, Graham and Bogisich",Bushwick,Italian,Medium,9:01,21:21,1.3,0
+965,"Klein, Pouros and Rath",Ridgewood,Mexican,Expensive,8:31,22:40,4.0,0
+966,Goodwin-Goyette,Astoria,Mexican,Cheap,8:35,22:13,3.7,1
+967,Mills Group,Riverdale,American,Medium,7:05,21:14,4.2,1
+968,O'Connell Inc,Park Slope,Mexican,Expensive,8:03,22:06,4.1,1
+969,"Christiansen, Hilll and Miller",Red Hook,Italian,Expensive,8:26,22:11,3.1,1
+970,Spencer Group,St. George,Mediterranean,Cheap,7:08,21:24,2.6,1
+971,"Luettgen, Kuhn and Kreiger",Belmont,Mediterranean,Medium,7:57,21:17,1.5,0
+972,"Luettgen, Ruecker and Prosacco",Forest Hills,Mediterranean,Expensive,9:29,22:51,1.1,1
+973,Hackett and Sons,Riverdale,American,Medium,9:10,22:23,4.0,0
+974,"Hintz, Denesik and Herman",SoHo,Mediterranean,Cheap,9:23,21:22,3.6,1
+975,Jacobson-Muller,Great Kills,Mexican,Expensive,7:03,22:48,2.7,1
+976,O'Keefe and Sons,Ridgewood,Mexican,Cheap,8:54,22:26,1.7,0
+977,Hettinger-Crona,Riverdale,Thai,Cheap,8:08,21:42,3.8,0
+978,Schowalter LLC,Bushwick,Mexican,Medium,7:17,21:53,3.1,1
+979,Kihn Inc,Flushing,Thai,Expensive,9:59,22:08,2.6,0
+980,"Kiehn, Lehner and Kohler",Flushing,Thai,Cheap,7:44,21:02,3.1,1
+981,Ebert-Jones,Fordham,Thai,Cheap,9:49,21:00,2.2,0
+982,"Ruecker, MacGyver and Williamson",Greenwich Village,Mexican,Cheap,7:43,21:58,3.7,1
+983,Stiedemann-Erdman,Annadale,Mexican,Cheap,7:28,22:17,3.0,0
+984,Cruickshank Inc,Upper West Side,Thai,Cheap,7:33,21:40,1.2,1
+985,Kuphal-Yundt,Crown Heights,Mexican,Medium,8:41,22:27,3.4,1
+986,Shanahan-Fritsch,Ridgewood,Thai,Expensive,7:53,21:14,4.3,0
+987,"Schiller, Kunde and Grant",St. George,Italian,Medium,8:57,22:11,2.4,0
+988,"Lind, Fadel and Kling",Sunnyside,Italian,Medium,7:08,21:51,3.2,0
+989,Kirlin Inc,Sunnyside,American,Medium,8:33,21:28,1.1,0
+990,"Kub, Greenholt and Jakubowski",Red Hook,Thai,Cheap,7:19,21:12,4.8,0
+991,Hahn Group,Annadale,Mexican,Expensive,8:39,22:41,5.0,0
+992,Jerde-Gaylord,Upper West Side,Mexican,Cheap,9:40,22:40,2.9,1
+993,Jast-Gusikowski,Midtown,Mediterranean,Expensive,8:31,22:22,2.7,0
+994,"DuBuque, Gusikowski and Langworth",St. George,Italian,Cheap,7:39,22:20,1.4,0
+995,"Mann, Keebler and Reilly",Midtown,Mexican,Expensive,8:39,21:45,1.2,0
+996,Heaney Inc,Flushing,Italian,Cheap,9:47,22:23,1.9,0
+997,Kemmer-Feeney,Long Island City,Mexican,Cheap,8:21,22:42,4.3,0
+998,Hartmann-Auer,Crown Heights,Mediterranean,Cheap,9:22,22:43,3.0,1
+999,Reynolds-Wisoky,Brooklyn Heights,Mexican,Expensive,7:42,22:24,3.5,0
+1000,Beatty Group,Riverdale,Mediterranean,Cheap,7:14,21:57,3.0,0
